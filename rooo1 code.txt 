@@ -2,10 +2,11 @@
     "password": "yBwwL05al5$&iya@rGN3uk8rIA5*AgzOrGW4RhGptsYr4t^jvBR@P5&psyu#94K7",
     "info": "This is NOT where you change your password. This file is only a means to give you a default password."
 }
-
+/gamerule playersSleepingPercentage
 147.185.221.26:57939 server ip
 
 ./playit
+-6014583786199688885
 
 while true; do echo "Preventing idle timeout"; sleep 40; done
 
