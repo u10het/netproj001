@@ -1,38 +1,119 @@
-[16:38:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:39:00] [ServerMain/WARN]: Missing data pack fabric
-[16:39:00] [ServerMain/WARN]: Missing data pack axiom
-[16:39:00] [ServerMain/WARN]: Missing data pack fabric-convention-tags-v2
-[16:39:02] [ServerMain/INFO]: Loaded 1290 recipes
-[16:39:03] [ServerMain/INFO]: Loaded 1399 advancements
-[16:39:03] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[16:39:03] [Server thread/INFO]: Loading properties
-[16:39:03] [Server thread/INFO]: Default game type: SURVIVAL
-[16:39:03] [Server thread/INFO]: Generating keypair
-[16:39:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:39:04] [Server thread/INFO]: Using epoll channel type
-[16:39:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:39:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:39:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:39:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:39:04] [Server thread/INFO]: Preparing level "world"
-[16:39:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:39:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[16:39:14] [Server thread/INFO]: Time elapsed: 1030 ms
-[16:39:14] [Server thread/INFO]: Done (9.757s)! For help, type "help"
-[16:40:22] [Server thread/INFO]: theHULK[/172.17.0.1:50922] logged in with entity id 10 at (19611.5, 88.0, 10762.5)
-[16:40:22] [Server thread/INFO]: theHULK joined the game
-[16:40:28] [Server thread/INFO]: [theHULK: Set own game mode to Creative Mode]
-[16:41:03] [Server thread/INFO]: theHULK lost connection: Disconnected
-[16:41:03] [Server thread/INFO]: theHULK left the game
-[16:41:12] [Server thread/INFO]: Stopping the server
-[16:41:12] [Server thread/INFO]: Stopping server
-[16:41:12] [Server thread/INFO]: Saving players
-[16:41:12] [Server thread/INFO]: Saving worlds
-[16:41:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World A4]'/minecraft:overworld
-[16:41:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World A4]'/minecraft:the_end
-[16:41:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World A4]'/minecraft:the_nether
-[16:41:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:41:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:41:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:41:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:30:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:30:16] [ServerMain/INFO]: Loaded 1290 recipes
+[16:30:17] [ServerMain/INFO]: Loaded 1399 advancements
+[16:30:18] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[16:30:18] [Server thread/INFO]: Loading properties
+[16:30:18] [Server thread/INFO]: Default game type: SURVIVAL
+[16:30:18] [Server thread/INFO]: Generating keypair
+[16:30:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:30:18] [Server thread/INFO]: Using epoll channel type
+[16:30:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:30:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:30:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:30:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:30:19] [Server thread/INFO]: Preparing level "world"
+[16:30:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:30:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:30:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:30:31] [Server thread/INFO]: Time elapsed: 893 ms
+[16:30:31] [Server thread/INFO]: Done (12.373s)! For help, type "help"
+[16:31:15] [Server thread/INFO]: theHULK[/172.17.0.1:52306] logged in with entity id 10 at (19724.075279519817, 118.0, 10955.211908606574)
+[16:31:15] [Server thread/INFO]: theHULK joined the game
+[16:31:25] [Server thread/INFO]: HabuGandu[/172.17.0.1:58918] logged in with entity id 329 at (19749.93409729255, 118.0, 10975.66087196518)
+[16:31:25] [Server thread/INFO]: HabuGandu joined the game
+[16:32:35] [Server thread/INFO]: theHULK lost connection: Disconnected
+[16:32:35] [Server thread/INFO]: theHULK left the game
+[16:32:47] [Server thread/INFO]: theHULK[/172.17.0.1:57356] logged in with entity id 496 at (19715.30290319272, 118.0, 10950.14080630204)
+[16:32:47] [Server thread/INFO]: theHULK joined the game
+[16:33:25] [Server thread/INFO]: theHULK lost connection: Disconnected
+[16:33:25] [Server thread/INFO]: theHULK left the game
+[16:33:43] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[16:33:43] [Server thread/INFO]: HabuGandu left the game
+[16:33:47] [Server thread/INFO]: theHULK[/172.17.0.1:44770] logged in with entity id 623 at (19716.633512004235, 118.5625, 10946.86583672826)
+[16:33:47] [Server thread/INFO]: theHULK joined the game
+[16:33:56] [Server thread/INFO]: HabuGandu[/172.17.0.1:56470] logged in with entity id 994 at (19722.921082037137, 120.5, 10949.216713640197)
+[16:33:56] [Server thread/INFO]: HabuGandu joined the game
+[16:37:06] [Server thread/INFO]: [theHULK: Set own game mode to Creative Mode]
+[16:37:11] [Server thread/INFO]: [theHULK: Set own game mode to Survival Mode]
+[16:38:20] [Server thread/INFO]: HabuGandu has made the advancement [Who's the Pillager Now?]
+[16:39:43] [Server thread/INFO]: theHULK has made the advancement [A Seedy Place]
+[16:45:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=19715, y=126, z=10933} jd{x=19715, y=125, z=10932}
+[16:45:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=19715, y=126, z=10933} jd{x=19715, y=125, z=10932}
+[16:45:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=19715, y=126, z=10933} jd{x=19715, y=125, z=10932}
+[16:48:57] [Server thread/INFO]: HabuGandu lost connection: Timed out
+[16:48:57] [Server thread/INFO]: HabuGandu left the game
+[16:49:19] [Server thread/INFO]: HabuGandu[/172.17.0.1:39074] logged in with entity id 5134 at (19733.895781905572, 118.0, 10935.965780449698)
+[16:49:19] [Server thread/INFO]: HabuGandu joined the game
+[16:55:20] [Server thread/INFO]: [Not Secure] <theHULK> kya che??
+[16:55:50] [Server thread/INFO]: [Not Secure] <HabuGandu> cow farm jode
+[16:56:08] [Server thread/INFO]: [Not Secure] <HabuGandu> cow farm jode
+[16:56:45] [Server thread/INFO]: [Not Secure] <theHULK> rgb sheep
+[16:57:10] [Server thread/INFO]: Drakii27[/172.17.0.1:55206] logged in with entity id 6649 at (19722.69999998808, 117.0, 10955.498397690342)
+[16:57:10] [Server thread/INFO]: Drakii27 joined the game
+[16:57:15] [Server thread/INFO]: [Not Secure] <theHULK> server lag thase
+[16:57:59] [Server thread/INFO]: [Not Secure] <theHULK> heril undo kr de server lag krse
+[16:58:17] [Server thread/INFO]: [Not Secure] <HabuGandu> name tag aap
+[16:58:29] [Server thread/INFO]: [theHULK: Gave 3 [Name Tag] to HabuGandu]
+[17:03:07] [Server thread/INFO]: [Not Secure] <theHULK> jiya bar av
+[17:06:02] [Server thread/INFO]: [Not Secure] <theHULK> ama muk
+[17:07:13] [Server thread/INFO]: [Not Secure] <theHULK> heril pelu nametag vadu undo karyu???
+[17:07:18] [Server thread/INFO]: [Not Secure] <HabuGandu> yes
+[17:09:09] [Server thread/INFO]: [Not Secure] <theHULK> heril ahi enchanting table pr ay
+[17:09:56] [Server thread/INFO]: [Not Secure] <theHULK> heril anvil ??
+[17:10:05] [Server thread/INFO]: [Not Secure] <theHULK> ahi leto ay
+[17:10:48] [Server thread/INFO]: [Not Secure] <HabuGandu> shu
+[17:10:57] [Server thread/INFO]: [Not Secure] <HabuGandu> kahe che
+[17:10:57] [Server thread/INFO]: [Not Secure] <theHULK> anvil hu chu tya muk
+[17:11:52] [Server thread/INFO]: [theHULK: Gave 5 [Chest] to theHULK]
+[17:12:07] [Server thread/INFO]: [Not Secure] <HabuGandu> aryan xp farm kya che
+[17:12:24] [Server thread/INFO]: [Not Secure] <theHULK> e to nether ma che
+[17:12:36] [Server thread/INFO]: [Not Secure] <theHULK> aa bakri kya lai ne jay che???
+[17:12:37] [Server thread/INFO]: [Not Secure] <HabuGandu> kayi jagyae
+[17:12:46] [Server thread/INFO]: [Not Secure] <theHULK> cutu
+[17:12:56] [Server thread/INFO]: [Not Secure] <theHULK> i will eat
+[17:12:59] [Server thread/INFO]: [Not Secure] <HabuGandu> looks yummy
+[17:13:17] [Server thread/INFO]: [Not Secure] <theHULK> ay heril
+[17:13:44] [Server thread/INFO]: [Not Secure] <theHULK> ahi wait kr hu tp kru
+[17:14:24] [Server thread/INFO]: Drakii27 has made the advancement [We Need to Go Deeper]
+[17:14:52] [Server thread/INFO]: [theHULK: Teleported theHULK to 4649.500000, 81.000000, 210.500000]
+[17:14:55] [Server thread/INFO]: [theHULK: Set own game mode to Creative Mode]
+[17:15:49] [Server thread/INFO]: [theHULK: Teleported HabuGandu to theHULK]
+[17:15:55] [Server thread/INFO]: [Not Secure] <theHULK> ahi thi padto nai
+[17:15:57] [Server thread/INFO]: [Not Secure] <HabuGandu> mane khali location kahe
+[17:16:11] [Server thread/INFO]: [Not Secure] <HabuGandu> atyare kam nathi
+[17:16:34] [Server thread/INFO]: [theHULK: Set own game mode to Survival Mode]
+[17:17:14] [Server thread/INFO]: [theHULK: Teleported theHULK to 2444.500000, 89.000000, 1364.500000]
+[17:17:21] [Server thread/INFO]: [theHULK: Set own game mode to Creative Mode]
+[17:17:35] [Server thread/INFO]: [Not Secure] <theHULK> heril thai jay etle keje
+[17:17:47] [Server thread/INFO]: [Not Secure] <HabuGandu> bahu slow che
+[17:19:24] [Server thread/INFO]: [Not Secure] <theHULK> jiya world ma ja ahi ghast avse to todi dese
+[17:20:21] [Server thread/INFO]: [Not Secure] <HabuGandu> thai gayu
+[17:20:26] [Server thread/INFO]: [Not Secure] <HabuGandu> thai gayu
+[17:20:32] [Server thread/INFO]: [theHULK: Teleported HabuGandu to theHULK]
+[17:20:38] [Server thread/INFO]: [theHULK: Set own game mode to Survival Mode]
+[17:21:00] [Server thread/INFO]: [Not Secure] <theHULK> jiya tari bakri ahi rai gayi
+[17:23:15] [Server thread/INFO]: HabuGandu lost connection: Disconnected
+[17:23:15] [Server thread/INFO]: HabuGandu left the game
+[17:23:15] [Server thread/INFO]: Drakii27 lost connection: Disconnected
+[17:23:15] [Server thread/INFO]: Drakii27 left the game
+[17:23:30] [Server thread/INFO]: Drakii27[/172.17.0.1:34892] logged in with entity id 14577 at (19746.544716142653, 118.0, 10945.814492347763)
+[17:23:30] [Server thread/INFO]: Drakii27 joined the game
+[17:24:07] [Server thread/INFO]: HabuGandu[/172.17.0.1:36022] logged in with entity id 14754 at (19702.3759562074, 118.0, 10933.361251997232)
+[17:24:07] [Server thread/INFO]: HabuGandu joined the game
+[17:24:40] [Server thread/INFO]: [Not Secure] <HabuGandu> aryan lv 3 ni raid bolav
+[17:24:50] [Server thread/INFO]: [Not Secure] <HabuGandu> have to diamond armor che
+[17:24:55] [Server thread/INFO]: [Not Secure] <theHULK> last time je raid hati e lev3 ni hati
+[17:25:15] [Server thread/INFO]: [Not Secure] <HabuGandu> pan e to bahu esy hatii
+[17:26:50] [Server thread/INFO]: theHULK lost connection: Disconnected
+[17:26:50] [Server thread/INFO]: theHULK left the game
+[17:26:55] [Server thread/INFO]: Stopping the server
+[17:26:55] [Server thread/INFO]: Stopping server
+[17:26:55] [Server thread/INFO]: Saving players
+[17:26:55] [Server thread/INFO]: Saving worlds
+[17:26:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World A4]'/minecraft:overworld
+[17:26:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World A4]'/minecraft:the_end
+[17:26:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World A4]'/minecraft:the_nether
+[17:26:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:26:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:26:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:26:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
