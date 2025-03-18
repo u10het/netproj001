@@ -1,0 +1,8 @@
+After we copy setup.sh file we paste this to start setup -
+
+code - {
+    chmod +x setup.sh
+./setup.sh
+}
+
+Then move world folder to its true location. 
