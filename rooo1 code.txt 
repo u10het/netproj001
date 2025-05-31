@@ -11,4 +11,4 @@
 while true; do echo "Preventing idle timeout"; sleep 40; done
 
 { /workspaces/netproj001/dockerr/start.sh } < start
-{ /workspaces/netproj001/dockerr/stop.sh } < stop
+{ /workspaces/netproj001/dockerr/stop.sh  } < stop
