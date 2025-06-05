@@ -1,1002 +1,218 @@
-[08:43:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[08:44:07] [ServerMain/INFO]: Loaded 1292 recipes
-[08:44:07] [ServerMain/INFO]: Loaded 1403 advancements
-[08:44:08] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[08:44:08] [Server thread/INFO]: Loading properties
-[08:44:08] [Server thread/INFO]: Default game type: SURVIVAL
-[08:44:08] [Server thread/INFO]: Generating keypair
-[08:44:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:44:09] [Server thread/INFO]: Using epoll channel type
-[08:44:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08:44:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[08:44:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[08:44:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[08:44:09] [Server thread/INFO]: Preparing level "world"
-[08:44:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[08:44:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[08:44:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[08:44:11] [Server thread/INFO]: Time elapsed: 1228 ms
-[08:44:11] [Server thread/INFO]: Done (1.545s)! For help, type "help"
-[08:44:48] [Server thread/INFO]: theHULK[/172.17.0.1:55668] logged in with entity id 75 at (3.7706931689901735, 61.0, -4.399675386687866)
-[08:44:49] [Server thread/INFO]: theHULK joined the game
-[08:45:33] [Server thread/INFO]: Drakii27[/172.17.0.1:48582] logged in with entity id 82 at (-4.643821190779706, 60.0, -0.8381963389227888)
-[08:45:33] [Server thread/INFO]: Drakii27 joined the game
-[08:46:15] [Server thread/INFO]: bankaionma727[/172.17.0.1:35422] logged in with entity id 85 at (-1.420854067766968, 60.0, 2.179731104968262)
-[08:46:15] [Server thread/INFO]: bankaionma727 joined the game
-[08:46:44] [Server thread/INFO]: Drakii27 was slain by Spider
-[08:46:47] [Server thread/INFO]: bankaionma727 was slain by Spider
-[08:47:07] [Server thread/INFO]: Drakii27 was slain by Spider
-[08:48:24] [Server thread/INFO]: [Not Secure] <theHULK> eeee niche aaay kuku
-[08:48:55] [Server thread/INFO]: [Not Secure] <Drakii27> no first give me 5 diamond
-[08:49:37] [Server thread/INFO]: [Not Secure] <Drakii27> because i know taka badha diamond lay lifha chah jyada hu auu na tyara marina lai lo chhoo
-[08:50:45] [Server thread/INFO]: [Not Secure] <bankaionma727> oye kuku le armor
-[08:51:21] [Server thread/INFO]: [Not Secure] <bankaionma727> kuku bapa check karva aavta hata
-[08:51:28] [Server thread/INFO]: [Not Secure] <bankaionma727> kuku bapa check karva aave che
-[08:51:30] [Server thread/INFO]: [Not Secure] <bankaionma727> kuku bapa check karva aave che
-[08:51:30] [Server thread/INFO]: [Not Secure] <bankaionma727> kuku bapa check karva aave che
-[08:51:31] [Server thread/INFO]: [Not Secure] <bankaionma727> kuku bapa check karva aave che
-[08:51:31] [Server thread/INFO]: [Not Secure] <bankaionma727> kuku bapa check karva aave che
-[08:51:32] [Server thread/INFO]: [Not Secure] <bankaionma727> kuku bapa check karva aave che
-[08:51:32] [Server thread/INFO]: [Not Secure] <bankaionma727> kuku bapa check karva aave che
-[08:51:33] [Server thread/INFO]: [Not Secure] <bankaionma727> kuku bapa check karva aave che
-[08:51:33] [Server thread/INFO]: [Not Secure] <bankaionma727> kuku bapa check karva aave che
-[08:51:34] [Server thread/INFO]: [Not Secure] <bankaionma727> kuku bapa check karva aave che
-[08:51:34] [Server thread/INFO]: [Not Secure] [Server] jiya papa ave che
-[08:51:34] [Server thread/INFO]: [Not Secure] <bankaionma727> kuku bapa check karva aave che
-[08:51:35] [Server thread/INFO]: [Not Secure] <bankaionma727> kuku bapa check karva aave che
-[08:52:02] [Server thread/INFO]: [Not Secure] [Server] kuku susu kri gayu
-[08:53:56] [Server thread/INFO]: [Not Secure] <bankaionma727> aryan open
-[08:54:17] [Server thread/INFO]: [Not Secure] <bankaionma727> kuku diamons joiye
-[08:54:43] [Server thread/INFO]: theHULK fell out of the world
-[08:54:51] [Server thread/INFO]: [Not Secure] <theHULK> hall kya banau??
-[08:55:03] [Server thread/INFO]: [Not Secure] <bankaionma727> esthayc banaje
-[08:55:12] [Server thread/INFO]: [Not Secure] <theHULK> but where??
-[08:55:23] [Server thread/INFO]: [Not Secure] <theHULK> lol
-[08:55:27] [Server thread/INFO]: bankaionma727 fell out of the world
-[08:55:34] [Server thread/INFO]: [Not Secure] <theHULK> void ma na banacy
-[08:56:01] [Server thread/INFO]: [Not Secure] <bankaionma727> or pachal
-[08:57:00] [Server thread/INFO]: theHULK fell out of the world
-[08:58:24] [Server thread/INFO]: [Not Secure] <bankaionma727> yes
-[08:58:44] [Server thread/INFO]: bankaionma727 has made the advancement [Not Today, Thank You]
-[08:58:46] [Server thread/INFO]: theHULK was shot by bankaionma727
-[08:58:49] [Server thread/INFO]: bankaionma727 was shot by Bogged
-[08:59:18] [Server thread/INFO]: [Not Secure] <theHULK> come
-[08:59:50] [Server thread/INFO]: [Not Secure] <theHULK> jiya tne bolave che
-[08:59:51] [Server thread/INFO]: [Not Secure] <bankaionma727> kuku bapa bolVW
-[09:00:35] [Server thread/INFO]: [Not Secure] <theHULK> todi kem didhu kholta n
-[09:00:45] [Server thread/INFO]: [Not Secure] <bankaionma727> e vault natu
-[09:00:50] [Server thread/INFO]: [Not Secure] <bankaionma727> e spawner hatu
-[09:01:47] [Server thread/INFO]: bankaionma727 fell out of the world
-[09:02:20] [Server thread/INFO]: [Not Secure] <bankaionma727> yes
-[09:02:41] [Server thread/INFO]: [Not Secure] <bankaionma727> key
-[09:04:04] [Server thread/INFO]: theHULK lost connection: Disconnected
-[09:04:04] [Server thread/INFO]: theHULK left the game
-[09:04:23] [Server thread/INFO]: theHULK[/172.17.0.1:50334] logged in with entity id 1073 at (0.38503420912762976, 61.0, 0.6069452813826057)
-[09:04:23] [Server thread/INFO]: theHULK joined the game
-[09:04:41] [Server thread/INFO]: [Not Secure] <bankaionma727> lol
-[09:05:33] [Server thread/INFO]: [Not Secure] <Drakii27> heri laga lai gayo
-[09:05:55] [Server thread/INFO]: bankaionma727 tried to swim in lava
-[09:05:59] [Server thread/INFO]: [Not Secure] <bankaionma727> lol
-[09:06:05] [Server thread/INFO]: [Not Secure] <theHULK> aaa glass kon lai ne gayu
-[09:06:06] [Server thread/INFO]: theHULK tried to swim in lava
-[09:06:16] [Server thread/INFO]: [Not Secure] <theHULK> aaa glass kon lai ne gayu
-[09:06:16] [Server thread/INFO]: [Not Secure] <theHULK> aaa glass kon lai ne gayu
-[09:06:21] [Server thread/INFO]: [Not Secure] <bankaionma727> kia
-[09:06:24] [Server thread/INFO]: [Not Secure] <bankaionma727> jia
-[09:06:31] [Server thread/INFO]: Drakii27 tried to swim in lava
-[09:06:46] [Server thread/INFO]: [Not Secure] <bankaionma727> ole ole
-[09:07:21] [Server thread/INFO]: [Not Secure] <bankaionma727> tod dau
-[09:07:24] [Server thread/INFO]: [Not Secure] <theHULK> yes
-[09:07:37] [Server thread/INFO]: [Not Secure] <theHULK> jiya mane stone joiye che to stone collect kr
-[09:07:47] [Server thread/INFO]: [Not Secure] <Drakii27> no
-[09:07:50] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar
-[09:07:55] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar
-[09:07:56] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar
-[09:07:56] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar
-[09:07:57] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar
-[09:07:57] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar
-[09:07:58] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar
-[09:07:58] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar
-[09:07:59] [Server thread/INFO]: [Not Secure] <Drakii27> jpfirst give five diamond
-[09:07:59] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar
-[09:08:00] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar
-[09:08:00] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar
-[09:08:06] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar
-[09:08:06] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar
-[09:08:07] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar
-[09:08:07] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar
-[09:08:08] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar
-[09:08:09] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar/
-[09:08:34] [Server thread/INFO]: [Not Secure] <Drakii27> give five diamond Aryan then i break cobllestone
-[09:08:42] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar/
-[09:08:43] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar/
-[09:08:43] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar/
-[09:08:44] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar/
-[09:08:44] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar/
-[09:08:45] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar//
-[09:08:45] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar//
-[09:08:50] [Server thread/INFO]: theHULK fell out of the world
-[09:09:11] [Server thread/INFO]: Drakii27 was slain by theHULK
-[09:09:14] [Server thread/INFO]: [Not Secure] <bankaionma727> lol
-[09:09:23] [Server thread/INFO]: Drakii27 was slain by theHULK
-[09:09:55] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya kam kar
-[09:09:57] [Server thread/INFO]: [Not Secure] <theHULK> ahe le le ro nai ho
-[09:10:00] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya kam kar
-[09:10:17] [Server thread/INFO]: bankaionma727 tried to swim in lava
-[09:10:19] [Server thread/INFO]: Drakii27 tried to swim in lava
-[09:10:28] [Server thread/INFO]: Drakii27 tried to swim in lava
-[09:10:32] [Server thread/INFO]: [Not Secure] <bankaionma727> lol
-[09:10:39] [Server thread/INFO]: Drakii27 tried to swim in lava
-[09:11:00] [Server thread/INFO]: bankaionma727 tried to swim in lava
-[09:11:12] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-18.55730057117708,0.0
-[09:11:14] [Server thread/INFO]: bankaionma727 fell out of the world
-[09:11:16] [Server thread/INFO]: Drakii27 was slain by theHULK
-[09:11:38] [Server thread/INFO]: Drakii27 burned to death
-[09:11:50] [Server thread/INFO]: Drakii27 tried to swim in lava
-[09:12:20] [Server thread/INFO]: [Not Secure] <bankaionma727> lol
-[09:12:47] [Server thread/INFO]: Drakii27 was slain by theHULK
-[09:12:49] [Server thread/INFO]: theHULK burned to death
-[09:13:31] [Server thread/INFO]: [Not Secure] <bankaionma727> watch
-[09:13:43] [Server thread/INFO]: bankaionma727 was slain by Drakii27
-[09:13:49] [Server thread/INFO]: [Not Secure] <bankaionma727> multichot
-[09:13:59] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[09:14:34] [Server thread/INFO]: Drakii27 was shot by bankaionma727
-[09:15:00] [Server thread/INFO]: Drakii27 burned to death
-[09:16:25] [Server thread/INFO]: bankaionma727 was slain by Drakii27
-[09:16:27] [Server thread/INFO]: Drakii27 tried to swim in lava
-[09:16:28] [Server thread/INFO]: [Not Secure] <theHULK> aa bichar frog ne boat ma pakdi ne rakhyo che
-[09:16:35] [Server thread/INFO]: Drakii27 tried to swim in lava
-[09:16:48] [Server thread/INFO]: bankaionma727 was slain by Drakii27
-[09:17:00] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[09:17:06] [Server thread/INFO]: bankaionma727 was slain by Drakii27
-[09:17:16] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[09:17:31] [Server thread/INFO]: bankaionma727 was slain by Drakii27
-[09:17:52] [Server thread/INFO]: bankaionma727 fell out of the world
-[09:18:04] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[09:18:24] [Server thread/INFO]: bankaionma727 was slain by Drakii27
-[09:19:30] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar/
-[09:19:32] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar/
-[09:19:33] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar/
-[09:19:33] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya open kar/
-[09:19:38] [Server thread/INFO]: Drakii27 was slain by theHULK
-[09:19:46] [Server thread/INFO]: bankaionma727 fell out of the world
-[09:20:33] [Server thread/INFO]: Drakii27 was shot by bankaionma727
-[09:20:33] [Server thread/INFO]: theHULK was shot by bankaionma727
-[09:20:43] [Server thread/INFO]: [Not Secure] <bankaionma727> one shot 2 kill
-[09:20:57] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[09:20:58] [Server thread/INFO]: bankaionma727 was slain by Zombie Villager
-[09:21:03] [Server thread/INFO]: theHULK was slain by Zombie Villager
-[09:21:09] [Server thread/INFO]: Drakii27 fell out of the world
-[09:21:15] [Server thread/INFO]: bankaionma727 fell out of the world
-[09:21:16] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-21.72904106516836,0.0
-[09:21:20] [Server thread/INFO]: theHULK was slain by Zombie Villager
-[09:21:31] [Server thread/INFO]: Drakii27 fell out of the world
-[09:21:36] [Server thread/INFO]: theHULK burned to death
-[09:22:18] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya bpa aave che
-[09:22:21] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya bpa aave che
-[09:22:22] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya bpa aave che
-[09:22:23] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya bpa aave che
-[09:22:23] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya bpa aave che
-[09:22:24] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya bpa aave che
-[09:22:24] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya bpa aave che
-[09:22:25] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya bpa aave che
-[09:22:25] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya bpa aave che
-[09:22:26] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya bpa aave che
-[09:22:26] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya bpa aave che
-[09:22:27] [Server thread/INFO]: [Not Secure] <bankaionma727> jiya bpa aave che
-[09:24:00] [Server thread/INFO]: Drakii27 fell out of the world
-[09:25:41] [Server thread/INFO]: bankaionma727 lost connection: Disconnected
-[09:25:41] [Server thread/INFO]: bankaionma727 left the game
-[09:26:55] [Server thread/INFO]: [Not Secure] <Drakii27> bachi tayi
-[09:28:40] [Server thread/INFO]: bankaionma727[/172.17.0.1:46702] logged in with entity id 1686 at (-1.7256581905987949, 60.0, 0.18096392982668041)
-[09:28:40] [Server thread/INFO]: bankaionma727 joined the game
-[09:29:15] [Server thread/INFO]: Drakii27 didn't want to live in the same world as bankaionma727
-[09:29:20] [Server thread/INFO]: [Not Secure] <bankaionma727> huehuehue
-[09:29:22] [Server thread/INFO]: [Not Secure] <bankaionma727> hue
-[09:30:05] [Server thread/INFO]: bankaionma727 was slain by Drakii27
-[09:30:25] [Server thread/INFO]: theHULK lost connection: Timed out
-[09:30:25] [Server thread/INFO]: theHULK left the game
-[09:30:25] [Server thread/WARN]: handleDisconnection() called twice
-[09:30:36] [Server thread/WARN]: Drakii27 moved too quickly! 0.7842894591131739,-10.133414748297625,0.36563842124164303
-[09:30:52] [Server thread/WARN]: Drakii27 moved too quickly! 0.0,-19.502313040421825,0.0
-[09:30:53] [Server thread/INFO]: Drakii27 fell out of the world
-[09:30:54] [Server thread/WARN]: Drakii27 moved too quickly! 0.0,-23.41036498969504,0.0
-[09:31:29] [Server thread/INFO]: theHULK[/172.17.0.1:34246] logged in with entity id 1805 at (1.3320220182992357, 61.60521130837936, 30.443300445978245)
-[09:31:29] [Server thread/INFO]: theHULK joined the game
-[09:32:05] [Server thread/INFO]: bankaionma727 was slain by Spider
-[09:33:08] [Server thread/INFO]: bankaionma727 has made the advancement [Who Needs Rockets?]
-[09:33:36] [Server thread/INFO]: Drakii27 burned to death
-[09:34:01] [Server thread/INFO]: Drakii27 fell out of the world
-[09:34:20] [Server thread/INFO]: Drakii27 fell out of the world
-[09:34:32] [Server thread/INFO]: bankaionma727 burned to death
-[09:34:36] [Server thread/INFO]: Drakii27 burned to death
-[09:34:49] [Server thread/INFO]: Drakii27 fell out of the world
-[09:35:05] [Server thread/INFO]: Drakii27 tried to swim in lava
-[09:35:22] [Server thread/INFO]: Drakii27 tried to swim in lava
-[09:36:22] [Server thread/INFO]: Drakii27 tried to swim in lava
-[09:37:30] [Server thread/INFO]: bankaionma727 fell out of the world
-[09:37:30] [Server thread/INFO]: Drakii27 was shot by Bogged
-[09:38:22] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[09:38:40] [Server thread/INFO]: [Not Secure] <Drakii27> pagal key badha waste ma chah
-[09:39:19] [Server thread/INFO]: bankaionma727 fell out of the world
-[09:39:30] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[09:39:57] [Server thread/INFO]: [Not Secure] <bankaionma727> hue
-[09:40:03] [Server thread/INFO]: [Not Secure] <bankaionma727> aryan open
-[09:41:00] [Server thread/INFO]: bankaionma727 fell out of the world
-[09:41:49] [Server thread/WARN]: bankaionma727 moved too quickly! -1.2717440706965537,-10.80652611000901,0.04891774002082672
-[09:41:56] [Server thread/INFO]: bankaionma727 lost connection: Timed out
-[09:41:56] [Server thread/INFO]: bankaionma727 left the game
-[09:42:09] [Server thread/INFO]: bankaionma727[/172.17.0.1:44218] logged in with entity id 2233 at (0.187551468034165, 50.33293275542409, 3.300000011920929)
-[09:42:09] [Server thread/INFO]: bankaionma727 joined the game
-[09:42:57] [Server thread/INFO]: [Not Secure] <bankaionma727> lol i survived
-[09:43:21] [Server thread/INFO]: bankaionma727 fell out of the world
-[09:43:51] [Server thread/INFO]: Drakii27 was shot by Bogged
-[09:44:09] [Server thread/INFO]: Drakii27 fell out of the world
-[09:44:16] [Server thread/INFO]: bankaionma727 was shot by Bogged
-[09:44:18] [Server thread/INFO]: theHULK was shot by Bogged
-[09:44:24] [Server thread/INFO]: bankaionma727 lost connection: Timed out
-[09:44:24] [Server thread/INFO]: bankaionma727 left the game
-[09:44:30] [Server thread/INFO]: bankaionma727[/172.17.0.1:56920] logged in with entity id 2424 at (4.246650417542224, 61.25220334025373, 1.011842621917126)
-[09:44:30] [Server thread/INFO]: bankaionma727 joined the game
-[09:44:54] [Server thread/INFO]: [Not Secure] <theHULK> eee noob kya gayu???
-[09:45:12] [Server thread/INFO]: bankaionma727 lost connection: Disconnected
-[09:45:12] [Server thread/INFO]: bankaionma727 left the game
-[09:45:22] [Server thread/INFO]: bankaionma727[/172.17.0.1:41290] logged in with entity id 2446 at (-1.172682893499486, 60.0, -3.803011098880166)
-[09:45:22] [Server thread/INFO]: bankaionma727 joined the game
-[09:46:13] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[09:46:55] [Server thread/INFO]: [Not Secure] <bankaionma727> bye bye
-[09:47:13] [Server thread/WARN]: Drakii27 moved too quickly! -0.00686183387213557,-10.648008555645234,-0.0032965044773991536
-[09:47:30] [Server thread/INFO]: [Not Secure] <bankaionma727> bye bye
-[09:47:30] [Server thread/INFO]: Drakii27 fell out of the world
-[09:47:31] [Server thread/WARN]: Drakii27 moved too quickly! 0.0,-21.20609413622151,0.0
-[09:47:57] [Server thread/INFO]: theHULK fell out of the world
-[09:47:59] [Server thread/WARN]: Drakii27 moved too quickly! 0.0,-17.928896334607387,0.0
-[09:48:03] [Server thread/INFO]: Drakii27 fell out of the world
-[09:48:04] [Server thread/WARN]: Drakii27 moved too quickly! 0.0,-22.273990464850158,0.0
-[09:48:20] [Server thread/INFO]: [Not Secure] <bankaionma727> kuku kaam karaye
-[09:48:37] [Server thread/INFO]: Drakii27 was slain by theHULK
-[09:50:41] [Server thread/INFO]: [Not Secure] <bankaionma727> aryan key
-[09:51:00] [Server thread/INFO]: [Not Secure] <bankaionma727> first clera
-[09:51:18] [Server thread/INFO]: [Not Secure] <bankaionma727> aryan key
-[09:51:33] [Server thread/INFO]: bankaionma727 fell out of the world
-[09:52:03] [Server thread/INFO]: [Not Secure] <theHULK> le kuku
-[09:52:15] [Server thread/INFO]: [Not Secure] <theHULK> come here
-[09:52:23] [Server thread/INFO]: [Not Secure] <theHULK> come here
-[09:52:35] [Server thread/INFO]: Drakii27 didn't want to live in the same world as theHULK
-[09:52:45] [Server thread/INFO]: [Not Secure] <theHULK> come here key aapu
-[09:52:55] [Server thread/INFO]: [Not Secure] <theHULK> come here key aapu
-[09:52:56] [Server thread/INFO]: [Not Secure] <theHULK> come here key aapu
-[09:52:57] [Server thread/INFO]: [Not Secure] <theHULK> come here key aapu
-[09:52:57] [Server thread/INFO]: [Not Secure] <theHULK> come here key aapu
-[09:53:32] [Server thread/INFO]: [Not Secure] <bankaionma727> mace maligayu
-[09:54:01] [Server thread/INFO]: [Not Secure] <Drakii27> dur raho
-[09:54:06] [Server thread/INFO]: [Not Secure] <theHULK> nai lau li
-[09:54:42] [Server thread/INFO]: [Not Secure] <bankaionma727> lol
-[09:55:01] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[09:55:19] [Server thread/INFO]: [Not Secure] <Drakii27> onemore key plz
-[09:55:19] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[09:55:27] [Server thread/INFO]: [Not Secure] <theHULK> ek j thi khule
-[09:56:07] [Server thread/INFO]: [Not Secure] <Drakii27> you have mace give me all your lava
-[09:56:23] [Server thread/WARN]: theHULK moved too quickly! 0.0,-18.981065499300044,0.0
-[09:56:25] [Server thread/INFO]: Drakii27 burned to death
-[09:56:26] [Server thread/INFO]: theHULK fell out of the world
-[09:56:34] [Server thread/INFO]: theHULK has made the advancement [Sweet Dreams]
-[09:56:37] [Server thread/INFO]: [Not Secure] <bankaionma727> le
-[09:56:49] [Server thread/INFO]: Drakii27 was slain by theHULK
-[09:57:17] [Server thread/INFO]: [Not Secure] <bankaionma727> kem kare chw
-[09:57:23] [Server thread/WARN]: Drakii27 moved too quickly! 0.019546799421285677,-11.472212468653602,0.0
-[09:57:25] [Server thread/WARN]: Drakii27 moved too quickly! -0.5292159589431984,-11.62768102046477,-0.012629299791975246
-[09:57:28] [Server thread/WARN]: Drakii27 moved too quickly! -0.1522267144500251,-13.547505941346493,0.0
-[09:57:35] [Server thread/INFO]: Drakii27 fell out of the world
-[09:57:35] [Server thread/WARN]: Drakii27 moved too quickly! 0.0,-23.42288326296483,0.0
-[09:57:46] [Server thread/INFO]: [Not Secure] <bankaionma727> kem kare chw
-[09:57:47] [Server thread/INFO]: [Not Secure] <bankaionma727> kem kare chw
-[09:57:47] [Server thread/INFO]: [Not Secure] <bankaionma727> kem kare chw
-[09:57:48] [Server thread/INFO]: [Not Secure] <bankaionma727> kem kare chw
-[09:57:53] [Server thread/INFO]: theHULK lost connection: Disconnected
-[09:57:53] [Server thread/INFO]: theHULK left the game
-[09:58:39] [Server thread/INFO]: theHULK[/172.17.0.1:47134] logged in with entity id 2692 at (0.9518454603185764, 61.0, 0.4652504787929537)
-[09:58:39] [Server thread/INFO]: theHULK joined the game
-[09:59:14] [Server thread/INFO]: theHULK was slain by bankaionma727
-[10:02:34] [Server thread/INFO]: Drakii27 fell out of the world
-[10:02:34] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-17.21919742493742,0.0
-[10:02:36] [Server thread/INFO]: bankaionma727 fell out of the world
-[10:05:21] [Server thread/INFO]: bankaionma727 fell out of the world
-[10:05:41] [Server thread/INFO]: bankaionma727 fell out of the world
-[10:06:14] [Server thread/INFO]: [Not Secure] <bankaionma727> faltu chest hati
-[10:06:28] [Server thread/INFO]: Named entity ckm['Monster Guard'/2977, l='ServerLevel[§9OneBlock §eReborn]', x=-0.59, y=61.80, z=-0.18] died: Monster Guard was shot by Monster Guard
-[10:06:29] [Server thread/INFO]: theHULK was slain by Monster Guard
-[10:06:30] [Server thread/INFO]: bankaionma727 was burned to a crisp while fighting Monster Guard
-[10:06:34] [Server thread/INFO]: Named entity ckm['Monster Guard'/2998, l='ServerLevel[§9OneBlock §eReborn]', x=-1.79, y=60.12, z=1.51] died: Monster Guard was slain by theHULK
-[10:06:35] [Server thread/INFO]: Named entity ckm['Monster Guard'/2999, l='ServerLevel[§9OneBlock §eReborn]', x=1.67, y=61.00, z=0.26] died: Monster Guard was shot by Monster Guard
-[10:06:36] [Server thread/INFO]: theHULK was slain by Monster Guard
-[10:06:36] [Server thread/INFO]: Named entity ckm['Monster Guard'/3005, l='ServerLevel[§9OneBlock §eReborn]', x=-1.60, y=61.17, z=-0.31] died: Monster Guard was slain by Frog
-[10:06:40] [Server thread/INFO]: Named entity ckm['Monster Guard'/3004, l='ServerLevel[§9OneBlock §eReborn]', x=-1.74, y=60.00, z=-3.49] died: Monster Guard was slain by Frog
-[10:06:40] [Server thread/INFO]: Named entity ckm['Monster Guard'/3017, l='ServerLevel[§9OneBlock §eReborn]', x=-4.69, y=60.12, z=0.73] died: Monster Guard was slain by theHULK
-[10:06:43] [Server thread/INFO]: Named entity ckm['Monster Guard'/3000, l='ServerLevel[§9OneBlock §eReborn]', x=-3.09, y=61.00, z=0.88] died: Monster Guard was slain by theHULK
-[10:06:44] [Server thread/INFO]: theHULK was slain by Monster Guard
-[10:06:47] [Server thread/INFO]: Named entity cjn['Monster Guard'/2985, l='ServerLevel[§9OneBlock §eReborn]', x=-4.97, y=-161.99, z=0.36] died: Monster Guard fell out of the world
-[10:06:48] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-20.087053052779623,0.0
-[10:06:50] [Server thread/INFO]: bankaionma727 fell out of the world
-[10:06:52] [Server thread/INFO]: theHULK was shot by Monster Guard
-[10:06:58] [Server thread/INFO]: bankaionma727 was slain by Monster Guard
-[10:06:59] [Server thread/INFO]: Named entity ckx['Monster Guard'/2989, l='ServerLevel[§9OneBlock §eReborn]', x=-4.93, y=60.00, z=0.46] died: Monster Guard was slain by theHULK
-[10:07:00] [Server thread/INFO]: Named entity ckm['Monster Guard'/2976, l='ServerLevel[§9OneBlock §eReborn]', x=-3.86, y=60.00, z=1.65] died: Monster Guard was slain by theHULK
-[10:07:01] [Server thread/INFO]: theHULK was slain by Monster Guard
-[10:07:04] [Server thread/INFO]: Named entity ckm['Monster Guard'/3027, l='ServerLevel[§9OneBlock §eReborn]', x=-1.95, y=60.00, z=-0.26] died: Monster Guard was slain by bankaionma727
-[10:07:05] [Server thread/INFO]: Named entity ckx['Monster Guard'/2981, l='ServerLevel[§9OneBlock §eReborn]', x=-5.28, y=60.00, z=-0.50] died: Monster Guard was slain by theHULK
-[10:07:07] [Server thread/INFO]: Named entity ckm['Monster Guard'/3050, l='ServerLevel[§9OneBlock §eReborn]', x=-3.20, y=61.17, z=1.98] died: Monster Guard was slain by theHULK
-[10:07:07] [Server thread/INFO]: Named entity ckm['Monster Guard'/3028, l='ServerLevel[§9OneBlock §eReborn]', x=-2.56, y=60.00, z=1.69] died: Monster Guard was slain by theHULK
-[10:07:08] [Server thread/INFO]: theHULK was slain by bankaionma727
-[10:07:08] [Server thread/INFO]: Named entity ckm['Monster Guard'/3051, l='ServerLevel[§9OneBlock §eReborn]', x=1.28, y=60.00, z=5.38] died: Monster Guard hit the ground too hard
-[10:07:13] [Server thread/INFO]: Named entity ckm['Monster Guard'/3013, l='ServerLevel[§9OneBlock §eReborn]', x=0.08, y=60.00, z=2.32] died: Monster Guard was slain by theHULK
-[10:07:15] [Server thread/INFO]: Named entity ckm['Monster Guard'/3014, l='ServerLevel[§9OneBlock §eReborn]', x=-0.67, y=60.00, z=2.04] died: Monster Guard was slain by theHULK
-[10:07:17] [Server thread/INFO]: Named entity ckm['Monster Guard'/3052, l='ServerLevel[§9OneBlock §eReborn]', x=-2.79, y=60.00, z=2.12] died: Monster Guard was slain by theHULK
-[10:07:19] [Server thread/INFO]: Named entity ckm['Monster Guard'/3029, l='ServerLevel[§9OneBlock §eReborn]', x=-4.42, y=60.00, z=1.15] died: Monster Guard was slain by theHULK
-[10:07:20] [Server thread/INFO]: Named entity ckm['Monster Guard'/3026, l='ServerLevel[§9OneBlock §eReborn]', x=0.47, y=60.00, z=1.53] died: Monster Guard was slain by theHULK
-[10:07:59] [Server thread/INFO]: [Not Secure] <theHULK> ee kuku kya che tu???
-[10:09:03] [Server thread/INFO]: [Not Secure] <theHULK> slime jode rakh jate andar avse
-[10:10:02] [Server thread/INFO]: bankaionma727 was slain by Zombie Villager
-[10:10:15] [Server thread/INFO]: bankaionma727 fell out of the world
-[10:14:37] [Server thread/INFO]: bankaionma727 lost connection: Disconnected
-[10:14:37] [Server thread/INFO]: bankaionma727 left the game
-[10:14:45] [Server thread/INFO]: bankaionma727[/172.17.0.1:50754] logged in with entity id 3512 at (-0.7999387966930163, 60.0, -0.1758066054674241)
-[10:14:45] [Server thread/INFO]: bankaionma727 joined the game
-[10:16:47] [Server thread/INFO]: [Not Secure] <bankaionma727> tane malyo
-[10:16:54] [Server thread/INFO]: [Not Secure] <Drakii27> app mane
-[10:17:39] [Server thread/INFO]: [Not Secure] <Drakii27> app a diamond
-[10:17:45] [Server thread/INFO]: [Not Secure] <bankaionma727> tane malyo
-[10:17:45] [Server thread/INFO]: [Not Secure] <bankaionma727> tane malyo
-[10:17:46] [Server thread/INFO]: [Not Secure] <bankaionma727> tane malyo
-[10:17:46] [Server thread/INFO]: [Not Secure] <bankaionma727> tane malyo
-[10:17:55] [Server thread/INFO]: [Not Secure] <Drakii27> tari pase already 29 chah
-[10:17:55] [Server thread/INFO]: [Not Secure] <bankaionma727> nalayak kaam to karti nathi
-[10:18:04] [Server thread/INFO]: bankaionma727 was slain by Drakii27
-[10:19:29] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[10:19:51] [Server thread/INFO]: [Not Secure] <Drakii27> ewwwwww
-[10:20:07] [Server thread/INFO]: [Not Secure] <theHULK> good doggy
-[10:20:19] [Server thread/INFO]: [Not Secure] <Drakii27> ewwwwwww Aryan kuku
-[10:20:31] [Server thread/INFO]: [Not Secure] <theHULK> kuku tari hau nu tu kuku
-[10:20:32] [Server thread/INFO]: [Not Secure] <bankaionma727> nether chalu
-[10:22:16] [Server thread/INFO]: Drakii27 was slain by Piglin
-[10:22:18] [Server thread/INFO]: bankaionma727 was slain by Piglin
-[10:22:27] [Server thread/INFO]: Drakii27 fell out of the world
-[10:22:28] [Server thread/INFO]: theHULK was slain by Piglin
-[10:22:37] [Server thread/INFO]: bankaionma727 lost connection: Disconnected
-[10:22:37] [Server thread/INFO]: bankaionma727 left the game
-[10:23:41] [Server thread/INFO]: [Not Secure] <Drakii27> Todd aaaa
-[10:24:13] [Server thread/INFO]: [Not Secure] <Drakii27> come with me aryan
-[10:24:28] [Server thread/INFO]: [Not Secure] <Drakii27> Tod aa
-[10:24:31] [Server thread/INFO]: [Not Secure] <theHULK> wait
-[10:24:43] [Server thread/INFO]: theHULK lost connection: Disconnected
-[10:24:43] [Server thread/INFO]: theHULK left the game
-[10:24:46] [Server thread/INFO]: [Not Secure] <Drakii27> mara thi mai thatu
-[10:24:57] [Server thread/INFO]: [Not Secure] <Drakii27> mara thi nai thatu
-[10:25:06] [Server thread/INFO]: theHULK[/172.17.0.1:45464] logged in with entity id 3813 at (-12.48144220433561, 60.0, -0.699999988079071)
-[10:25:06] [Server thread/INFO]: theHULK joined the game
-[10:25:11] [Server thread/INFO]: Drakii27 lost connection: Timed out
-[10:25:11] [Server thread/INFO]: Drakii27 left the game
-[10:25:36] [Server thread/INFO]: theHULK lost connection: Timed out
-[10:25:36] [Server thread/INFO]: theHULK left the game
-[10:26:07] [Server thread/INFO]: Drakii27[/172.17.0.1:35392] logged in with entity id 3815 at (1.534473855995865, 60.0, 0.1561342843651935)
-[10:26:07] [Server thread/INFO]: Drakii27 joined the game
-[10:26:19] [Server thread/INFO]: theHULK[/172.17.0.1:54632] logged in with entity id 3818 at (-11.5, 60.0, 0.5)
-[10:26:19] [Server thread/INFO]: theHULK joined the game
-[10:26:33] [Server thread/INFO]: [Not Secure] <Drakii27> diamond pickaxe appp
-[10:27:34] [Server thread/INFO]: [Not Secure] <Drakii27> appp
-[10:27:37] [Server thread/INFO]: [Not Secure] <theHULK> no
-[10:27:39] [Server thread/INFO]: [Not Secure] <theHULK> no
-[10:27:41] [Server thread/INFO]: [Not Secure] <theHULK> no
-[10:27:47] [Server thread/INFO]: [Not Secure] <Drakii27> yes plz
-[10:27:56] [Server thread/INFO]: [Not Secure] <Drakii27> yes plz
-[10:28:01] [Server thread/INFO]: theHULK has made the advancement [Hidden in the Depths]
-[10:28:49] [Server thread/INFO]: theHULK has made the advancement [Ice Bucket Challenge]
-[10:29:19] [Server thread/INFO]: theHULK was slain by Piglin
-[10:29:20] [Server thread/INFO]: Drakii27 was slain by Piglin
-[10:29:50] [Server thread/INFO]: theHULK has made the advancement [Spooky Scary Skeleton]
-[10:30:55] [Server thread/INFO]: Drakii27 was slain by Magma Cube
-[10:31:35] [Server thread/INFO]: Drakii27 was slain by Magma Cube
-[10:31:48] [Server thread/INFO]: theHULK has made the advancement [Who is Cutting Onions?]
-[10:32:16] [Server thread/INFO]: bankaionma727[/172.17.0.1:48724] logged in with entity id 4003 at (-1.8728951118721646, 60.0, 0.7863841769900083)
-[10:32:16] [Server thread/INFO]: bankaionma727 joined the game
-[10:34:04] [Server thread/INFO]: bankaionma727 has made the advancement [Who is Cutting Onions?]
-[10:34:52] [Server thread/INFO]: [Not Secure] <Drakii27> koni jode diamond block ayoo
-[10:34:54] [Server thread/INFO]: bankaionma727 has made the advancement [Hidden in the Depths]
-[10:35:11] [Server thread/INFO]: [Not Secure] <Drakii27> boloo
-[10:35:15] [Server thread/INFO]: bankaionma727 has made the advancement [Spooky Scary Skeleton]
-[10:35:44] [Server thread/INFO]: [Not Secure] <Drakii27> skeleton bhagooo
-[10:35:46] [Server thread/INFO]: [Not Secure] <bankaionma727> diamond bolock aayoj nathi'
-[10:36:14] [Server thread/INFO]: [Not Secure] <theHULK> avo block ave to aapjo
-[10:36:48] [Server thread/INFO]: Drakii27 fell out of the world
-[10:37:35] [Server thread/INFO]: [Not Secure] <Drakii27> koni pase diamond black ayoo
-[10:38:08] [Server thread/INFO]: bankaionma727 was slain by Magma Cube
-[10:38:24] [Server thread/INFO]: Drakii27 fell out of the world
-[10:38:36] [Server thread/INFO]: theHULK was slain by Magma Cube
-[10:39:28] [Server thread/INFO]: bankaionma727 was slain by Drakii27
-[10:39:46] [Server thread/INFO]: [Not Secure] <Drakii27> bolo diamond block koni pase chch
-[10:40:08] [Server thread/INFO]: [Not Secure] <theHULK> are diamond no block na ave khali diamond no ore j ave
-[10:40:26] [Server thread/INFO]: [Not Secure] <bankaionma727> nalayak
-[10:40:36] [Server thread/INFO]: [Not Secure] <bankaionma727> blase rod void ma nakhi didhi
-[10:40:49] [Server thread/INFO]: [Not Secure] <Drakii27> tari jode chah diamond block
-[10:40:57] [Server thread/INFO]: [Not Secure] <theHULK> nathi
-[10:41:01] [Server thread/INFO]: [Not Secure] <theHULK> e copper che
-[10:41:19] [Server thread/INFO]: [Not Secure] <theHULK> jo
-[10:41:26] [Server thread/INFO]: [Not Secure] <Drakii27> bol hril
-[10:41:32] [Server thread/INFO]: bankaionma727 was slain by Piglin
-[10:41:33] [Server thread/INFO]: Drakii27 was slain by Piglin
-[10:42:16] [Server thread/INFO]: [Not Secure] <Drakii27> bollll hril
-[10:42:21] [Server thread/INFO]: [Not Secure] <bankaionma727> shu bolu
-[10:42:31] [Server thread/INFO]: [Not Secure] <theHULK> eni jo e blue vado copper no block che
-[10:42:39] [Server thread/INFO]: [Not Secure] <Drakii27> diamond block taripase chah
-[10:42:43] [Server thread/INFO]: [Not Secure] <bankaionma727> no
-[10:43:27] [Server thread/INFO]: [Not Secure] <bankaionma727> goldor silktoch thi todvano
-[10:45:01] [Server thread/INFO]: Drakii27 was slain by Wither Skeleton
-[10:45:03] [Server thread/INFO]: bankaionma727 was slain by Wither Skeleton
-[10:45:13] [Server thread/INFO]: Drakii27 fell out of the world
-[10:45:33] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-19.164159677358015,0.0
-[10:45:44] [Server thread/INFO]: bankaionma727 lost connection: Disconnected
-[10:45:44] [Server thread/INFO]: bankaionma727 left the game
-[10:45:53] [Server thread/INFO]: bankaionma727[/172.17.0.1:49886] logged in with entity id 4542 at (-0.7618637656275415, -114.61050237670435, 0.4682600816886613)
-[10:45:53] [Server thread/INFO]: bankaionma727 joined the game
-[10:46:00] [Server thread/INFO]: bankaionma727 fell out of the world
-[10:46:53] [Server thread/INFO]: bankaionma727 has made the advancement [Into Fire]
-[10:49:34] [Server thread/INFO]: bankaionma727 has completed the challenge [Uneasy Alliance]
-[10:50:25] [Server thread/INFO]: bankaionma727 was slain by Monster Guard
-[10:50:28] [Server thread/INFO]: Drakii27 was slain by Monster Guard
-[10:50:34] [Server thread/INFO]: bankaionma727 was slain by Monster Guard
-[10:50:34] [Server thread/INFO]: Drakii27 was slain by Monster Guard
-[10:50:37] [Server thread/INFO]: theHULK fell out of the world
-[10:51:04] [Server thread/INFO]: theHULK fell out of the world
-[10:51:17] [Server thread/INFO]: [Not Secure] <bankaionma727> bhai
-[10:51:19] [Server thread/INFO]: Named entity cky['Monster Guard'/4792, l='ServerLevel[§9OneBlock §eReborn]', x=-10.45, y=60.00, z=-3.85] died: Monster Guard was slain by theHULK
-[10:51:24] [Server thread/INFO]: [Not Secure] <bankaionma727> bhai
-[10:51:30] [Server thread/INFO]: theHULK was slain by Monster Guard
-[10:51:41] [Server thread/INFO]: Named entity cky['Monster Guard'/4795, l='ServerLevel[§9OneBlock §eReborn]', x=-8.72, y=60.00, z=-5.51] died: Monster Guard was slain by theHULK
-[10:51:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-12, y=61, z=-4}
-[10:51:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-12, y=60, z=-4}
-[10:52:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-12, y=61, z=-4}
-[10:52:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-12, y=60, z=-4}
-[10:52:09] [Server thread/INFO]: bankaionma727 lost connection: Timed out
-[10:52:09] [Server thread/INFO]: bankaionma727 left the game
-[10:52:21] [Server thread/INFO]: theHULK lost connection: Timed out
-[10:52:21] [Server thread/INFO]: theHULK left the game
-[10:53:04] [Server thread/INFO]: theHULK[/172.17.0.1:60938] logged in with entity id 4837 at (-10.453303115247389, 60.0, -6.416951117408119)
-[10:53:04] [Server thread/INFO]: theHULK joined the game
-[10:53:21] [Server thread/INFO]: theHULK lost connection: Disconnected
-[10:53:21] [Server thread/INFO]: theHULK left the game
-[10:53:37] [Server thread/INFO]: theHULK[/172.17.0.1:55388] logged in with entity id 4838 at (-10.453303115247389, 60.0, -6.416951117408119)
-[10:53:37] [Server thread/INFO]: theHULK joined the game
-[10:53:55] [Server thread/INFO]: bankaionma727[/172.17.0.1:60452] logged in with entity id 4840 at (-0.34615412381751876, 60.0, 0.3763301314132884)
-[10:53:55] [Server thread/INFO]: bankaionma727 joined the game
-[10:57:38] [Server thread/INFO]: [Not Secure] <bankaionma727> kam karle kam
-[10:58:46] [Server thread/INFO]: Drakii27 was slain by Piglin
-[10:58:47] [Server thread/INFO]: bankaionma727 was slain by Piglin
-[10:58:54] [Server thread/INFO]: Drakii27 was slain by Piglin
-[11:00:39] [Server thread/INFO]: theHULK lost connection: Disconnected
-[11:00:39] [Server thread/INFO]: theHULK left the game
-[11:01:11] [Server thread/INFO]: bankaionma727 lost connection: Timed out
-[11:01:11] [Server thread/INFO]: bankaionma727 left the game
-[11:01:11] [Server thread/WARN]: handleDisconnection() called twice
-[11:01:28] [Server thread/INFO]: bankaionma727[/172.17.0.1:47296] logged in with entity id 5007 at (0.16658341834260468, 60.0, 2.3568646076077333)
-[11:01:28] [Server thread/INFO]: bankaionma727 joined the game
-[11:01:44] [Server thread/INFO]: Drakii27 was slain by Hoglin
-[11:01:53] [Server thread/INFO]: bankaionma727 was slain by Zoglin
-[11:02:02] [Server thread/INFO]: Drakii27 was slain by Zoglin
-[11:02:24] [Server thread/INFO]: [Not Secure] <bankaionma727> darpok
-[11:02:27] [Server thread/INFO]: Drakii27 has made the advancement [Sweet Dreams]
-[11:04:04] [Server thread/INFO]: bankaionma727 was slain by Wither Skeleton
-[11:04:55] [Server thread/INFO]: [Not Secure] <Drakii27> katla diamond chah heril
-[11:05:06] [Server thread/INFO]: [Not Secure] <bankaionma727> tonty
-[11:05:16] [Server thread/INFO]: [Not Secure] <Drakii27> wrong
-[11:05:17] [Server thread/INFO]: theHULK[/172.17.0.1:47416] logged in with entity id 5155 at (4.491627072695526, 60.0, -4.381701513770658)
-[11:05:17] [Server thread/INFO]: theHULK joined the game
-[11:05:25] [Server thread/INFO]: [Not Secure] <Drakii27> 30 chah
-[11:05:43] [Server thread/INFO]: bankaionma727 fell out of the world
-[11:05:59] [Server thread/INFO]: Drakii27 was slain by Magma Cube
-[11:07:00] [Server thread/INFO]: bankaionma727 lost connection: Disconnected
-[11:07:00] [Server thread/INFO]: bankaionma727 left the game
-[11:08:13] [Server thread/INFO]: [Not Secure] <Drakii27> appp
-[11:08:22] [Server thread/INFO]: [Not Secure] <theHULK> su???
-[11:08:29] [Server thread/INFO]: [Not Secure] <Drakii27> s thi
-[11:09:14] [Server thread/INFO]: [Not Secure] <theHULK> jiya ana pachi blocks mine krje
-[11:10:31] [Server thread/INFO]: bankaionma727[/172.17.0.1:57684] logged in with entity id 5299 at (-2.106161809634532, 60.0, 0.3939947388308218)
-[11:10:31] [Server thread/INFO]: bankaionma727 joined the game
-[11:12:03] [Server thread/INFO]: [Not Secure] <theHULK> friendly ghast
-[11:12:14] [Server thread/INFO]: bankaionma727 was fireballed by Ghast
-[11:12:18] [Server thread/INFO]: [Not Secure] <theHULK> not so friendly ghast
-[11:12:47] [Server thread/INFO]: theHULK lost connection: Timed out
-[11:12:47] [Server thread/INFO]: theHULK left the game
-[11:13:01] [Server thread/INFO]: theHULK[/172.17.0.1:42334] logged in with entity id 5362 at (10.374455682510643, 63.19415681547864, -12.582951962720538)
-[11:13:01] [Server thread/INFO]: theHULK joined the game
-[11:13:50] [Server thread/INFO]: Drakii27 fell from a high place
-[11:14:16] [Server thread/INFO]: Drakii27 fell from a high place
-[11:14:36] [Server thread/INFO]: Drakii27 fell out of the world
-[11:15:11] [Server thread/INFO]: [Not Secure] <Drakii27> pagal hu diamond ni pickaxe banavti hati
-[11:15:26] [Server thread/INFO]: [Not Secure] <Drakii27> mara tran diamond faya
-[11:15:44] [Server thread/INFO]: [Not Secure] <bankaionma727> aryan aape che
-[11:15:53] [Server thread/INFO]: [Not Secure] <Drakii27> oyyy mara tran diamond voi ma gaya
-[11:16:01] [Server thread/INFO]: [Not Secure] <bankaionma727> aryan aape che
-[11:16:02] [Server thread/INFO]: [Not Secure] <bankaionma727> aryan aape che
-[11:16:22] [Server thread/INFO]: [Not Secure] <Drakii27> chal have tu app mane tran diamond
-[11:16:32] [Server thread/INFO]: Drakii27 fell out of the world
-[11:16:33] [Server thread/INFO]: [Not Secure] <bankaionma727> pickaxe tane aapi
-[11:16:38] [Server thread/INFO]: [Not Secure] <bankaionma727> moj kar
-[11:17:01] [Server thread/INFO]: [Not Secure] <Drakii27> nai ayyy
-[11:17:23] [Server thread/INFO]: [Not Secure] <Drakii27> naiayyy
-[11:17:35] [Server thread/INFO]: Drakii27 tried to swim in lava
-[11:18:56] [Server thread/INFO]: [Not Secure] <Drakii27> mara mara tran diamond app herio
-[11:18:59] [Server thread/WARN]: Drakii27 moved too quickly! 0.0,-18.502473639172734,0.0
-[11:19:01] [Server thread/WARN]: Drakii27 moved too quickly! 0.0,-11.026982712340185,0.0
-[11:19:04] [Server thread/WARN]: Drakii27 moved too quickly! 0.0,-22.82680250654036,0.0
-[11:19:05] [Server thread/INFO]: Drakii27 fell out of the world
-[11:19:15] [Server thread/INFO]: Drakii27 has made the advancement [Ice Bucket Challenge]
-[11:19:19] [Server thread/WARN]: bankaionma727 moved too quickly! -0.46279820546237493,-10.7472268703862,-1.3883970880781944
-[11:19:21] [Server thread/WARN]: bankaionma727 moved too quickly! -1.3878477470908865,-10.34236673505357,-2.097537532870618
-[11:19:27] [Server thread/INFO]: [Not Secure] <bankaionma727> lol
-[11:19:32] [Server thread/WARN]: bankaionma727 moved too quickly! -0.8641494234853812,-10.827409984789155,-1.5502454996971635
-[11:19:44] [Server thread/INFO]: [Not Secure] <Drakii27> mara diamond app heril trann
-[11:20:11] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[11:21:48] [Server thread/INFO]: bankaionma727 was slain by Piglin
-[11:22:04] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[11:23:03] [Server thread/INFO]: bankaionma727 was slain by Magma Cube
-[11:23:38] [Server thread/INFO]: [Not Secure] <theHULK> kuku diamond pickaxe bi mange che
-[11:23:41] [Server thread/INFO]: [Not Secure] <Drakii27> khali 19 chah puchi la Aryan jode
-[11:23:44] [Server thread/INFO]: [Not Secure] <bankaionma727> na aap
-[11:23:50] [Server thread/INFO]: [Not Secure] <theHULK> apya che
-[11:23:51] [Server thread/INFO]: [Not Secure] <Drakii27> appp
-[11:23:56] [Server thread/INFO]: [Not Secure] <theHULK> apya che
-[11:23:58] [Server thread/INFO]: [Not Secure] <theHULK> apya che
-[11:23:59] [Server thread/INFO]: [Not Secure] <theHULK> apya che
-[11:24:00] [Server thread/INFO]: [Not Secure] <theHULK> apya che
-[11:24:00] [Server thread/INFO]: [Not Secure] <theHULK> apya che
-[11:24:01] [Server thread/INFO]: [Not Secure] <bankaionma727> 5 diamond to me aapya che
-[11:24:01] [Server thread/INFO]: [Not Secure] <theHULK> apya che
-[11:24:02] [Server thread/INFO]: [Not Secure] <theHULK> apya che
-[11:24:02] [Server thread/INFO]: [Not Secure] <theHULK> apya che
-[11:24:03] [Server thread/INFO]: [Not Secure] <theHULK> apya che
-[11:24:04] [Server thread/INFO]: [Not Secure] <theHULK> apya che
-[11:24:05] [Server thread/INFO]: [Not Secure] <theHULK> apya che
-[11:24:08] [Server thread/INFO]: [Not Secure] <bankaionma727> kamcjor
-[11:24:14] [Server thread/INFO]: [Not Secure] <bankaionma727> kamchor
-[11:24:19] [Server thread/INFO]: [Not Secure] <bankaionma727> 5 diamond to me aapya che
-[11:24:20] [Server thread/INFO]: [Not Secure] <bankaionma727> kamchor
-[11:24:27] [Server thread/INFO]: [Not Secure] <Drakii27> ani battery
-[11:24:49] [Server thread/INFO]: [Not Secure] <Drakii27> hal thodi apya
-[11:25:04] [Server thread/INFO]: [Not Secure] <Drakii27> total pach apya
-[11:25:12] [Server thread/INFO]: [Not Secure] <bankaionma727> me aapya
-[11:25:29] [Server thread/INFO]: [Not Secure] <Drakii27> aa hi pan block tod ti to tari sathe ho atle khoti na bol
-[11:25:46] [Server thread/INFO]: bankaionma727 was slain by Zoglin
-[11:25:52] [Server thread/INFO]: [Not Secure] <Drakii27> lol
-[11:25:56] [Server thread/INFO]: [Not Secure] <bankaionma727> tu kasu kaam nathi kart
-[11:25:59] [Server thread/INFO]: [Not Secure] <Drakii27> bhi whi ayy
-[11:26:06] [Server thread/INFO]: [Not Secure] <bankaionma727> an diamond lutva aave che khali
-[11:26:38] [Server thread/INFO]: [Not Secure] <Drakii27> ayyyy nalayak
-[11:27:01] [Server thread/INFO]: [Not Secure] <Drakii27> huntari sathe block tod ti hati atlle khoti na bol
-[11:27:09] [Server thread/INFO]: [Not Secure] <bankaionma727> tamburo
-[11:27:16] [Server thread/INFO]: [Not Secure] <Drakii27> haaa
-[11:27:23] [Server thread/INFO]: [Not Secure] <bankaionma727> 5 10 block todine tara kuku passe jati reti hati
-[11:27:51] [Server thread/INFO]: [Not Secure] <Drakii27> mari pickaxe tuti atke banava ayy to pan tumane hava ma uchal toh hato
-[11:28:10] [Server thread/INFO]: [Not Secure] <Drakii27> jaja
-[11:28:22] [Server thread/INFO]: [Not Secure] <Drakii27> hu kyarni tari sathe tofu chu
-[11:28:33] [Server thread/INFO]: [Not Secure] <bankaionma727> kai todti nathi
-[11:28:39] [Server thread/INFO]: [Not Secure] <bankaionma727> timepass kare che khali
-[11:28:40] [Server thread/INFO]: [Not Secure] <Drakii27> a mari pickaxectuti atle banava see chhu
-[11:29:01] [Server thread/INFO]: [Not Secure] <Drakii27> gadhada nalayak tu timepass kar chhah
-[11:29:12] [Server thread/INFO]: [Not Secure] <bankaionma727> tu kare che nalayak donkey
-[11:29:21] [Server thread/INFO]: [Not Secure] <bankaionma727> donkey riding on a camel
-[11:29:41] [Server thread/INFO]: Drakii27 fell out of the world
-[11:30:10] [Server thread/INFO]: Drakii27 fell out of the world
-[11:31:07] [Server thread/INFO]: Drakii27 fell from a high place
-[11:31:24] [Server thread/INFO]: [Not Secure] <Drakii27> gadhada mari ja a hi thi
-[11:31:31] [Server thread/INFO]: [Not Secure] <bankaionma727> tu mari jaa
-[11:31:56] [Server thread/INFO]: [Not Secure] <Drakii27> bhi ahiayyu
-[11:32:08] [Server thread/INFO]: [Not Secure] <Drakii27> room ma
-[11:33:10] [Server thread/INFO]: Drakii27 has made the advancement [Into Fire]
-[11:38:38] [Server thread/INFO]: theHULK lost connection: Disconnected
-[11:38:38] [Server thread/INFO]: theHULK left the game
-[11:41:37] [Server thread/INFO]: Drakii27 has made the advancement [Take Aim]
-[11:41:55] [Server thread/INFO]: Drakii27 has made the advancement [Spooky Scary Skeleton]
-[11:42:25] [Server thread/INFO]: Drakii27 was shot by bankaionma727
-[11:43:02] [Server thread/INFO]: bankaionma727 was slain by Drakii27
-[11:43:15] [Server thread/INFO]: theHULK[/172.17.0.1:42276] logged in with entity id 6105 at (10.067067917251595, 65.00058127537487, 2.807694843411716)
-[11:43:15] [Server thread/INFO]: theHULK joined the game
-[11:43:44] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[11:43:52] [Server thread/INFO]: [Not Secure] <bankaionma727> pvp god chu beta
-[11:44:00] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[11:44:45] [Server thread/INFO]: [Not Secure] <Drakii27> Maru tari jam ba alag nathi am ma chah atle one by one karvi pade chahu ok boootttt
-[11:45:33] [Server thread/INFO]: Drakii27 tried to swim in lava
-[11:46:53] [Server thread/INFO]: [Not Secure] <bankaionma727> shulker lootis
-[11:47:10] [Server thread/INFO]: [Not Secure] <bankaionma727> lootandu
-[11:47:15] [Server thread/INFO]: theHULK lost connection: Timed out
-[11:47:15] [Server thread/INFO]: theHULK left the game
-[11:47:19] [Server thread/INFO]: bankaionma727 lost connection: Disconnected
-[11:47:19] [Server thread/INFO]: bankaionma727 left the game
-[11:47:48] [Server thread/INFO]: bankaionma727[/172.17.0.1:40124] logged in with entity id 6191 at (1.6848549422998211, 60.0, -10.074973622969656)
-[11:47:48] [Server thread/INFO]: bankaionma727 joined the game
-[11:48:35] [Server thread/INFO]: theHULK[/172.17.0.1:35128] logged in with entity id 6192 at (13.487500011920929, 60.73584067272827, -5.256533815001459)
-[11:48:35] [Server thread/INFO]: theHULK joined the game
-[11:51:11] [Server thread/INFO]: bankaionma727 lost connection: Disconnected
-[11:51:11] [Server thread/INFO]: bankaionma727 left the game
-[11:51:30] [Server thread/INFO]: bankaionma727[/172.17.0.1:47248] logged in with entity id 6211 at (-1.987154446947329, 60.0, 0.2579048026271604)
-[11:51:30] [Server thread/INFO]: bankaionma727 joined the game
-[11:54:26] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-10.49079610902799,0.0
-[11:54:29] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-10.556602614620111,0.0
-[11:54:33] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-22.854319466132154,0.0
-[11:54:33] [Server thread/INFO]: bankaionma727 fell out of the world
-[11:54:50] [Server thread/INFO]: bankaionma727 fell out of the world
-[11:55:01] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[11:55:16] [Server thread/INFO]: bankaionma727 fell out of the world
-[11:55:27] [Server thread/INFO]: Drakii27 fell out of the world
-[11:56:34] [Server thread/INFO]: [Not Secure] <bankaionma727> nalayak maru scroller bagdi gayu
-[11:57:10] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[11:57:21] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[11:57:30] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[11:57:42] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[11:57:49] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[11:57:56] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[11:58:04] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[11:58:13] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[11:58:28] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[11:58:37] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[11:58:46] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[11:58:46] [Server thread/INFO]: [Not Secure] <Drakii27> su chah
-[11:58:46] [Server thread/INFO]: [Not Secure] <theHULK> server deleting in .... 3
-[11:58:49] [Server thread/INFO]: [Not Secure] <theHULK> 2
-[11:58:51] [Server thread/INFO]: [Not Secure] <theHULK> 1
-[11:58:54] [Server thread/INFO]: [Not Secure] <theHULK> 0
-[11:58:54] [Server thread/INFO]: [Not Secure] <bankaionma727> mo
-[11:59:14] [Server thread/INFO]: [Not Secure] <theHULK> stop or i will delete server
-[11:59:24] [Server thread/INFO]: [Not Secure] <bankaionma727> aa nalayak ne jaeh sidhi rite rame
-[11:59:34] [Server thread/INFO]: [Not Secure] <Drakii27> su chah ba tane ha marala mara Karkare chahh kyarno
-[12:00:20] [Server thread/INFO]: [Not Secure] <bankaionma727> ramta na aavadi hoi ne to na ram bot
-[12:00:39] [Server thread/INFO]: [Not Secure] <bankaionma727> ramta na aavadi hoi ne to na ram bot
-[12:01:18] [Server thread/INFO]: [Not Secure] <Drakii27> tu kamm mar ma kar chah kyarno jai na kam kqr na taru
-[12:01:28] [Server thread/INFO]: [Not Secure] <bankaionma727> aa nalayak ne jaeh sidhi rite rame
-[12:01:30] [Server thread/INFO]: [Not Secure] <Drakii27> booottdaaa
-[12:01:31] [Server thread/INFO]: [Not Secure] <bankaionma727> nalayak maru scroller bagdi gayu
-[12:01:43] [Server thread/INFO]: [Not Secure] <bankaionma727> u ek no ni bot che
-[12:01:55] [Server thread/INFO]: [Not Secure] <bankaionma727> ek game nai rami sakti simple
-[12:02:02] [Server thread/INFO]: [Not Secure] <Drakii27> taru pala thi bagdi tu ok khotuna boll
-[12:02:16] [Server thread/INFO]: [Not Secure] <bankaionma727> aryane repair kayu hatu
-[12:02:19] [Server thread/INFO]: [Not Secure] <Drakii27> tu mara hat ma thiguntotoo
-[12:02:35] [Server thread/INFO]: [Not Secure] <Drakii27> agle tari bhull
-[12:02:47] [Server thread/INFO]: [Not Secure] <Drakii27> ta pala thi bagadyu hatu
-[12:02:51] [Server thread/INFO]: [Not Secure] <bankaionma727> sidhi rite ramvanu nai to na ram
-[12:03:04] [Server thread/INFO]: [Not Secure] <Drakii27> tu na ramm
-[12:03:17] [Server thread/INFO]: [Not Secure] <bankaionma727> jyardekho vate vate ro ro kare che
-[12:03:18] [Server thread/INFO]: theHULK lost connection: Disconnected
-[12:03:18] [Server thread/INFO]: theHULK left the game
-[12:03:28] [Server thread/INFO]: [Not Secure] <Drakii27> ta pote taru scroll nbagadyu you ok atke khoti na bol
-[12:03:43] [Server thread/INFO]: [Not Secure] <Drakii27> tu roa chah
-[12:03:52] [Server thread/INFO]: [Not Secure] <bankaionma727> rotdu tu che
-[12:03:52] [Server thread/INFO]: [Not Secure] <Drakii27> puran daa ek no no
-[12:04:05] [Server thread/INFO]: [Not Secure] <bankaionma727> sidhi rite ramvanu nai to na ram
-[12:04:11] [Server thread/INFO]: [Not Secure] <Drakii27> ja to rah kam vagar no
-[12:04:25] [Server thread/INFO]: [Not Secure] <bankaionma727> tu jatire cheter
-[12:04:32] [Server thread/INFO]: [Not Secure] <Drakii27> tu chah
-[12:04:35] [Server thread/INFO]: [Not Secure] <bankaionma727> bot
-[12:04:37] [Server thread/INFO]: [Not Secure] <Drakii27> lutanda
-[12:04:43] [Server thread/INFO]: [Not Secure] <Drakii27> botdaaa
-[12:04:45] [Server thread/INFO]: [Not Secure] <bankaionma727> tu lutandi
-[12:04:55] [Server thread/INFO]: [Not Secure] <bankaionma727> jyardekho khali lutva mate aave che
-[12:04:59] [Server thread/INFO]: [Not Secure] <Drakii27> jaaa khawa taall laavawa
-[12:05:08] [Server thread/INFO]: [Not Secure] <bankaionma727> kamm to karavu nathi
-[12:05:11] [Server thread/INFO]: [Not Secure] <Drakii27> ato tu Ave chah
-[12:05:45] [Server thread/INFO]: [Not Secure] <Drakii27> khara hu Tori na tyare tu mane ane Ayan ne marina lai la ja ok cheeterr lutan si
-[12:06:13] [Server thread/INFO]: [Not Secure] <bankaionma727> han to fight kar noob bot
-[12:06:40] [Server thread/INFO]: theHULK[/172.17.0.1:46246] logged in with entity id 6715 at (6.377829512092734, 63.75445692209763, -4.798827308230841)
-[12:06:40] [Server thread/INFO]: theHULK joined the game
-[12:06:58] [Server thread/INFO]: [Not Secure] <Drakii27> mara nay karvi bot turn by turn Pavani hoi pann tu tohbadh lai la chah bot
-[12:07:09] [Server thread/INFO]: [Not Secure] <bankaionma727> kam karvu pade
-[12:07:23] [Server thread/INFO]: [Not Secure] <bankaionma727> hu kaam karu chu tu nazi karti
-[12:07:26] [Server thread/INFO]: [Not Secure] <theHULK> mane to full maja ave che
-[12:07:31] [Server thread/INFO]: [Not Secure] <Drakii27> kr vhu hu a kyarni tari baju ma todu chuu
-[12:07:49] [Server thread/INFO]: [Not Secure] <bankaionma727> 5 10 block todine pachi jati rhe che
-[12:07:58] [Server thread/INFO]: [Not Secure] <bankaionma727> kutrao jode
-[12:07:59] [Server thread/INFO]: [Not Secure] <Drakii27> a chuthada
-[12:08:11] [Server thread/INFO]: [Not Secure] <bankaionma727> 5 10 block todine pachi jati rhe che
-[12:08:14] [Server thread/INFO]: [Not Secure] <bankaionma727> kutrao jode
-[12:08:52] [Server thread/INFO]: [Not Secure] <Drakii27> kyarni todu chu pachi pickaxe tuti atle diamond ni banava jati hati pan ak nalayak kyarno hava ma udaudad karto hato
-[12:09:06] [Server thread/INFO]: [Not Secure] <bankaionma727> 5 10 block todya che khali\
-[12:09:30] [Server thread/INFO]: [Not Secure] <theHULK> entertainment is so real that hitler has o spawn in
-[12:09:37] [Server thread/INFO]: [Not Secure] <bankaionma727> i m hitler
-[12:09:48] [Server thread/INFO]: [Not Secure] <bankaionma727> i m declaring the 3rd ww
-[12:09:56] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[12:10:16] [Server thread/INFO]: [Not Secure] <Drakii27> su chah ba nalayak
-[12:10:31] [Server thread/INFO]: bankaionma727 has made the advancement [Smells Interesting]
-[12:10:32] [Server thread/INFO]: [Not Secure] <Drakii27> bau aa nai kari Rayo donkey
-[12:10:42] [Server thread/INFO]: [Not Secure] <bankaionma727> tu donkey
-[12:10:50] [Server thread/INFO]: [Not Secure] <bankaionma727> donkey riding camel
-[12:11:08] [Server thread/INFO]: [Not Secure] <theHULK> see this
-[12:11:21] [Server thread/INFO]: [Not Secure] <theHULK> see this jiya
-[12:11:21] [Server thread/INFO]: [Not Secure] <bankaionma727> shu che
-[12:11:33] [Server thread/INFO]: [Not Secure] <theHULK> see this
-[12:11:41] [Server thread/INFO]: [Not Secure] <theHULK> this is carryminati
-[12:11:48] [Server thread/INFO]: [Not Secure] <bankaionma727> aa rto jiya he
-[12:13:52] [Server thread/INFO]: bankaionma727 lost connection: Disconnected
-[12:13:52] [Server thread/INFO]: bankaionma727 left the game
-[12:13:55] [Server thread/INFO]: theHULK lost connection: Timed out
-[12:13:55] [Server thread/INFO]: theHULK left the game
-[12:13:59] [Server thread/INFO]: Drakii27 lost connection: Timed out
-[12:13:59] [Server thread/INFO]: Drakii27 left the game
-[12:14:39] [Server thread/INFO]: Drakii27[/172.17.0.1:55732] logged in with entity id 6951 at (-10.810870464021907, 60.0, -0.762499988079071)
-[12:14:39] [Server thread/INFO]: Drakii27 joined the game
-[12:14:57] [Server thread/INFO]: theHULK[/172.17.0.1:37956] logged in with entity id 6957 at (9.012932323352722, 64.5, -6.298325892625125)
-[12:14:57] [Server thread/INFO]: theHULK joined the game
-[12:15:06] [Server thread/INFO]: bankaionma727[/172.17.0.1:44516] logged in with entity id 6962 at (-2.1194892058302695, 60.0, -1.1200452898975508)
-[12:15:06] [Server thread/INFO]: bankaionma727 joined the game
-[12:15:24] [Server thread/INFO]: Drakii27 lost connection: Timed out
-[12:15:24] [Server thread/INFO]: Drakii27 left the game
-[12:15:27] [Server thread/INFO]: theHULK lost connection: Timed out
-[12:15:27] [Server thread/INFO]: theHULK left the game
-[12:15:57] [Server thread/INFO]: Drakii27[/172.17.0.1:35780] logged in with entity id 6978 at (-10.810870464021907, 60.0, -0.762499988079071)
-[12:15:57] [Server thread/INFO]: Drakii27 joined the game
-[12:15:59] [Server thread/INFO]: theHULK[/172.17.0.1:35782] logged in with entity id 6980 at (9.012932323352722, 64.5, -6.298325892625125)
-[12:15:59] [Server thread/INFO]: theHULK joined the game
-[12:16:19] [Server thread/INFO]: Drakii27 fell out of the world
-[12:16:44] [Server thread/INFO]: [Not Secure] <bankaionma727> aryan aane zoo ma muk
-[12:19:08] [Server thread/INFO]: bankaionma727 was stung to death
-[12:19:29] [Server thread/INFO]: theHULK lost connection: Disconnected
-[12:19:29] [Server thread/INFO]: theHULK left the game
-[12:19:51] [Server thread/INFO]: bankaionma727 was killed by Monster Guard using magic
-[12:19:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=0, y=60, z=0}
-[12:20:00] [Server thread/INFO]: Named entity cff['Monster Guard'/7229, l='ServerLevel[§9OneBlock §eReborn]', x=-1.13, y=26.92, z=-72.67] died: Monster Guard died
-[12:20:00] [Server thread/INFO]: Named entity cff['Monster Guard'/7227, l='ServerLevel[§9OneBlock §eReborn]', x=34.43, y=3.73, z=-12.57] died: Monster Guard died
-[12:20:03] [Server thread/INFO]: Named entity cff['Monster Guard'/7228, l='ServerLevel[§9OneBlock §eReborn]', x=-83.50, y=17.00, z=-25.79] died: Monster Guard died
-[12:20:04] [Server thread/INFO]: Named entity cff['Monster Guard'/7247, l='ServerLevel[§9OneBlock §eReborn]', x=6.86, y=38.54, z=-19.97] died: Monster Guard died
-[12:20:05] [Server thread/INFO]: Drakii27 burned to death
-[12:20:07] [Server thread/INFO]: Named entity cff['Monster Guard'/7246, l='ServerLevel[§9OneBlock §eReborn]', x=-13.83, y=53.12, z=-61.21] died: Monster Guard died
-[12:20:08] [Server thread/INFO]: Named entity cff['Monster Guard'/7241, l='ServerLevel[§9OneBlock §eReborn]', x=-47.35, y=11.50, z=2.85] died: Monster Guard died
-[12:20:10] [Server thread/INFO]: Named entity cff['Monster Guard'/7248, l='ServerLevel[§9OneBlock §eReborn]', x=-51.87, y=49.73, z=-24.81] died: Monster Guard died
-[12:20:18] [Server thread/INFO]: bankaionma727 was slain by Drakii27
-[12:20:20] [Server thread/INFO]: Drakii27 was burned to a crisp while fighting Monster Guard
-[12:20:29] [Server thread/INFO]: Named entity ckt['Monster Guard'/7235, l='ServerLevel[§9OneBlock §eReborn]', x=-6.30, y=60.00, z=0.70] died: Monster Guard was slain by bankaionma727
-[12:21:24] [Server thread/INFO]: theHULK[/172.17.0.1:56146] logged in with entity id 7465 at (4.444061237123224, 64.02438490212639, -3.9934804165012223)
-[12:21:24] [Server thread/INFO]: theHULK joined the game
-[12:21:41] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[12:21:54] [Server thread/INFO]: [Not Secure] <Drakii27> ba mari iron pickaxe
-[12:23:12] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[12:23:29] [Server thread/INFO]: [Not Secure] <Drakii27> mari iron pickaxe kuda ma chah
-[12:23:38] [Server thread/INFO]: [Not Secure] <bankaionma727> upad jald
-[12:23:44] [Server thread/INFO]: [Not Secure] <Drakii27> ka to tari inventory ma aiii
-[12:25:36] [Server thread/INFO]: Drakii27 fell out of the world
-[12:25:38] [Server thread/INFO]: bankaionma727 was stung to death
-[12:26:34] [Server thread/INFO]: Named entity cff['Monster Guard'/7242, l='ServerLevel[§9OneBlock §eReborn]', x=-101.68, y=-964.54, z=-121.83] died: Monster Guard was killed
-[12:27:47] [Server thread/INFO]: [Not Secure] <Drakii27> mari iron pick axe ari pase chahh
-[12:27:54] [Server thread/INFO]: [Not Secure] <bankaionma727> nathu
-[12:27:59] [Server thread/INFO]: [Not Secure] <Drakii27> chahh
-[12:28:28] [Server thread/INFO]: [Not Secure] <theHULK> i guess time has come
-[12:29:28] [Server thread/INFO]: Drakii27 fell out of the world
-[12:29:48] [Server thread/INFO]: [Not Secure] <Drakii27> tara karan a mari iron pickaxe gaii
-[12:30:06] [Server thread/INFO]: [Not Secure] <bankaionma727> cho gayi
-[12:30:14] [Server thread/INFO]: [Not Secure] <bankaionma727> ambr kam to tu karti nathi
-[12:30:40] [Server thread/INFO]: bankaionma727 lost connection: Disconnected
-[12:30:40] [Server thread/INFO]: bankaionma727 left the game
-[12:30:46] [Server thread/INFO]: Villager cmk['Villager'/9, l='ServerLevel[§9OneBlock §eReborn]', x=-1.66, y=59.51, z=11.05] died, message: 'Villager was slain by theHULK'
-[12:30:50] [Server thread/INFO]: [Not Secure] <Drakii27> ma amra iron pickaxe navi banayi ti a gayi tara karan a
-[12:31:59] [Server thread/INFO]: bankaionma727[/172.17.0.1:45420] logged in with entity id 7983 at (-2.1895330169838054, 60.0, 1.8806748945434795)
-[12:31:59] [Server thread/INFO]: bankaionma727 joined the game
-[12:32:21] [Server thread/INFO]: Made Drakii27 a server operator
-[12:32:23] [Server thread/INFO]: Made Drakii27 no longer a server operator
-[12:32:25] [Server thread/INFO]: Made bankaionma727 a server operator
-[12:33:06] [Server thread/INFO]: [Not Secure] <Drakii27> tari pase mari iron pickaxe chee
-[12:33:21] [Server thread/INFO]: Drakii27 lost connection: You are banned from this server
-[12:33:21] [Server thread/INFO]: Drakii27 left the game
-[12:33:27] [Server thread/INFO]: Disconnecting Drakii27 (/172.17.0.1:34782): You are banned from this server.
-Reason: notplayingwellextranoob 1minute
-[12:33:27] [Server thread/INFO]: Drakii27 (/172.17.0.1:34782) lost connection: You are banned from this server.
-Reason: notplayingwellextranoob 1minute
-[12:33:27] [Server thread/WARN]: handleDisconnection() called twice
-[12:33:44] [Server thread/INFO]: Disconnecting Drakii27 (/172.17.0.1:50738): You are banned from this server.
-Reason: notplayingwellextranoob 1minute
-[12:33:44] [Server thread/INFO]: Drakii27 (/172.17.0.1:50738) lost connection: You are banned from this server.
-Reason: notplayingwellextranoob 1minute
-[12:33:44] [Server thread/WARN]: handleDisconnection() called twice
-[12:33:48] [Server thread/INFO]: Disconnecting Drakii27 (/172.17.0.1:50746): You are banned from this server.
-Reason: notplayingwellextranoob 1minute
-[12:33:48] [Server thread/INFO]: Drakii27 (/172.17.0.1:50746) lost connection: You are banned from this server.
-Reason: notplayingwellextranoob 1minute
-[12:33:48] [Server thread/WARN]: handleDisconnection() called twice
-[12:34:21] [Server thread/INFO]: theHULK lost connection: Disconnected
-[12:34:21] [Server thread/INFO]: theHULK left the game
-[12:34:47] [Server thread/INFO]: Disconnecting Drakii27 (/172.17.0.1:57074): You are banned from this server.
-Reason: notplayingwellextranoob 1minute
-[12:34:47] [Server thread/INFO]: Drakii27 (/172.17.0.1:57074) lost connection: You are banned from this server.
-Reason: notplayingwellextranoob 1minute
-[12:34:47] [Server thread/WARN]: handleDisconnection() called twice
-[12:35:04] [Server thread/INFO]: Disconnecting Drakii27 (/172.17.0.1:56192): You are banned from this server.
-Reason: notplayingwellextranoob 1minute
-[12:35:04] [Server thread/INFO]: Drakii27 (/172.17.0.1:56192) lost connection: You are banned from this server.
-Reason: notplayingwellextranoob 1minute
-[12:35:04] [Server thread/WARN]: handleDisconnection() called twice
-[12:35:16] [Server thread/INFO]: Disconnecting Drakii27 (/172.17.0.1:51814): You are banned from this server.
-Reason: notplayingwellextranoob 1minute
-[12:35:16] [Server thread/INFO]: Drakii27 (/172.17.0.1:51814) lost connection: You are banned from this server.
-Reason: notplayingwellextranoob 1minute
-[12:35:17] [Server thread/WARN]: handleDisconnection() called twice
-[12:37:29] [Server thread/INFO]: bankaionma727 lost connection: Timed out
-[12:37:29] [Server thread/INFO]: bankaionma727 left the game
-[12:42:48] [Server thread/INFO]: Disconnecting Drakii27 (/172.17.0.1:44782): You are banned from this server.
-Reason: notplayingwellextranoob 1minute
-[12:42:48] [Server thread/INFO]: Drakii27 (/172.17.0.1:44782) lost connection: You are banned from this server.
-Reason: notplayingwellextranoob 1minute
-[12:42:49] [Server thread/WARN]: handleDisconnection() called twice
-[12:44:03] [Server thread/INFO]: Made bankaionma727 no longer a server operator
-[12:44:03] [Server thread/INFO]: Nothing changed. The player is not an operator
-[12:44:03] [Server thread/INFO]: Nothing changed. The player is not an operator
-[12:44:03] [Server thread/INFO]: Nothing changed. The player is not an operator
-[12:44:44] [Server thread/INFO]: bankaionma727[/172.17.0.1:46070] logged in with entity id 7993 at (-2.664125491185618, 61.0, -2.517421741955331)
-[12:44:44] [Server thread/INFO]: bankaionma727 joined the game
-[12:45:03] [Server thread/INFO]: Disconnecting Drakii27 (/172.17.0.1:51996): You are banned from this server.
-Reason: notplayingwellextranoob 1minute
-[12:45:03] [Server thread/INFO]: Drakii27 (/172.17.0.1:51996) lost connection: You are banned from this server.
-Reason: notplayingwellextranoob 1minute
-[12:45:03] [Server thread/WARN]: handleDisconnection() called twice
-[12:45:03] [Server thread/INFO]: There are 1 ban(s):
-[12:45:03] [Server thread/INFO]: Drakii27 was banned by bankaionma727: notplayingwellextranoob 1minute
-[12:45:10] [Server thread/INFO]: Disconnecting Drakii27 (/172.17.0.1:37316): You are banned from this server.
-Reason: notplayingwellextranoob 1minute
-[12:45:10] [Server thread/INFO]: Drakii27 (/172.17.0.1:37316) lost connection: You are banned from this server.
-Reason: notplayingwellextranoob 1minute
-[12:45:10] [Server thread/WARN]: handleDisconnection() called twice
-[12:45:38] [Server thread/INFO]: theHULK[/172.17.0.1:52408] logged in with entity id 8018 at (4.80998616630443, 60.0, -4.108634702926769)
-[12:45:38] [Server thread/INFO]: theHULK joined the game
-[12:46:50] [Server thread/INFO]: Drakii27[/172.17.0.1:53222] logged in with entity id 8022 at (-2.597890621339392, 60.0, -1.6128070591631707)
-[12:46:50] [Server thread/INFO]: Drakii27 joined the game
-[12:46:53] [Server thread/INFO]: bankaionma727 has made the advancement [Glow and Behold!]
-[12:48:42] [Server thread/INFO]: [Not Secure] <theHULK> i told jiyu give me chicken, she said no, then i told her i am making diamond armour, she told me give one too... biggest rotlu player of game
-[12:50:07] [Server thread/INFO]: bankaionma727 was burned to a crisp while fighting Zombie
-[12:50:25] [Server thread/INFO]: bankaionma727 fell out of the world
-[12:50:25] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-21.965316964873864,0.0
-[12:51:39] [Server thread/INFO]: theHULK was slain by Breeze
-[12:51:41] [Server thread/INFO]: bankaionma727 fell out of the world
-[12:51:42] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-22.315379280659727,0.0
-[12:52:04] [Server thread/INFO]: theHULK fell out of the world
-[12:52:41] [Server thread/INFO]: theHULK fell out of the world
-[12:53:00] [Server thread/INFO]: Drakii27 fell out of the world
-[12:53:15] [Server thread/WARN]: theHULK moved too quickly! -0.041611871184358495,-11.549749572659081,-0.09318611059278936
-[12:53:21] [Server thread/INFO]: theHULK fell out of the world
-[12:53:35] [Server thread/INFO]: bankaionma727 fell out of the world
-[12:53:37] [Server thread/INFO]: theHULK fell out of the world
-[12:53:37] [Server thread/WARN]: theHULK moved too quickly! 0.0,-22.43151195543436,0.0
-[12:53:50] [Server thread/INFO]: theHULK fell out of the world
-[12:54:28] [Server thread/INFO]: theHULK fell out of the world
-[12:57:36] [Server thread/WARN]: Player Drakii27 just tried to change non-editable sign
-[12:58:16] [Server thread/INFO]: Drakii27 was slain by bankaionma727
-[12:58:28] [Server thread/INFO]: [Not Secure] <bankaionma727> my na,e is johncena
-[12:59:13] [Server thread/INFO]: Disconnecting bankaionma727 (/172.17.0.1:49270): The server is full!
-[12:59:13] [Server thread/INFO]: bankaionma727 (/172.17.0.1:49270) lost connection: The server is full!
-[12:59:13] [Server thread/WARN]: handleDisconnection() called twice
-[12:59:13] [Server thread/INFO]: [Not Secure] <Drakii27> jara sixty gold gays
-[12:59:15] [Server thread/INFO]: bankaionma727 lost connection: Timed out
-[12:59:15] [Server thread/INFO]: bankaionma727 left the game
-[12:59:30] [Server thread/INFO]: theHULK lost connection: Disconnected
-[12:59:30] [Server thread/INFO]: theHULK left the game
-[13:04:12] [Server thread/INFO]: bankaionma727[/172.17.0.1:38316] logged in with entity id 8964 at (-2.0553516523388615, 60.0, 0.9272199416977666)
-[13:04:12] [Server thread/INFO]: bankaionma727 joined the game
-[13:04:57] [Server thread/INFO]: theHULK[/172.17.0.1:45992] logged in with entity id 9010 at (2.952464099983532, 60.0, 2.134905864546842)
-[13:04:57] [Server thread/INFO]: theHULK joined the game
-[13:05:24] [Server thread/INFO]: bankaionma727 was slain by Vindicator
-[13:05:29] [Server thread/INFO]: theHULK was slain by Vindicator
-[13:05:39] [Server thread/INFO]: theHULK was slain by Vindicator
-[13:05:42] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-16.725605537528494,0.0
-[13:05:44] [Server thread/INFO]: bankaionma727 fell out of the world
-[13:05:47] [Server thread/INFO]: theHULK was slain by Vindicator
-[13:05:57] [Server thread/INFO]: bankaionma727 was shot by Pillager
-[13:06:33] [Server thread/WARN]: bankaionma727 moved too quickly! -0.023963555842128947,-13.504611134392865,-0.028301574965406306
-[13:06:39] [Server thread/INFO]: bankaionma727 fell out of the world
-[13:06:40] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-22.915628086332276,0.0
-[13:07:12] [Server thread/INFO]: bankaionma727 was slain by Ravager
-[13:07:17] [Server thread/INFO]: theHULK was shot by Pillager
-[13:07:24] [Server thread/INFO]: bankaionma727 fell out of the world
-[13:07:24] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-21.589425778745266,0.0
-[13:07:24] [Server thread/INFO]: theHULK was slain by Ravager
-[13:07:36] [Server thread/INFO]: bankaionma727 was slain by Ravager
-[13:07:40] [Server thread/INFO]: theHULK fell out of the world
-[13:07:50] [Server thread/INFO]: theHULK was slain by bankaionma727
-[13:08:36] [Server thread/INFO]: bankaionma727 lost connection: Disconnected
-[13:08:36] [Server thread/INFO]: bankaionma727 left the game
-[13:08:37] [Server thread/WARN]: theHULK moved too quickly! 1.5187024787630694,-11.113989432500759,1.1914501349204887
-[13:08:49] [Server thread/INFO]: bankaionma727[/172.17.0.1:38220] logged in with entity id 9341 at (-1.542023241089103, 60.0, 0.7688767260789265)
-[13:08:49] [Server thread/INFO]: bankaionma727 joined the game
-[13:08:57] [Server thread/INFO]: theHULK lost connection: Timed out
-[13:08:57] [Server thread/INFO]: theHULK left the game
-[13:09:07] [Server thread/INFO]: Drakii27 lost connection: Timed out
-[13:09:07] [Server thread/INFO]: Drakii27 left the game
-[13:09:24] [Server thread/INFO]: Drakii27[/172.17.0.1:35640] logged in with entity id 9358 at (11.349221831742819, 60.43152384527073, -6.687286810618104)
-[13:09:24] [Server thread/INFO]: Drakii27 joined the game
-[13:09:29] [Server thread/INFO]: theHULK[/172.17.0.1:41068] logged in with entity id 9368 at (1.398954027171635, 50.295665553499305, -7.435557991847609)
-[13:09:29] [Server thread/INFO]: theHULK joined the game
-[13:09:32] [Server thread/WARN]: theHULK moved too quickly! 0.0,-12.032610980258177,0.0
-[13:09:34] [Server thread/INFO]: bankaionma727 lost connection: Timed out
-[13:09:34] [Server thread/INFO]: bankaionma727 left the game
-[13:09:59] [Server thread/INFO]: theHULK lost connection: Timed out
-[13:09:59] [Server thread/INFO]: theHULK left the game
-[13:10:34] [Server thread/INFO]: theHULK[/172.17.0.1:33708] logged in with entity id 9390 at (1.398954027171635, 6.376389604210647, -7.435557991847609)
-[13:10:34] [Server thread/INFO]: theHULK joined the game
-[13:10:41] [Server thread/INFO]: theHULK fell out of the world
-[13:10:47] [Server thread/INFO]: bankaionma727[/172.17.0.1:53100] logged in with entity id 9396 at (-3.6030317788915482, 60.875, -2.498977467367219)
-[13:10:47] [Server thread/INFO]: bankaionma727 joined the game
-[13:11:47] [Server thread/INFO]: [Not Secure] <theHULK> le le kuku ro nai
-[13:12:05] [Server thread/INFO]: [Not Secure] <theHULK> aa ma villager cook kr ne
-[13:12:23] [Server thread/INFO]: [Not Secure] <bankaionma727> shu che
-[13:12:27] [Server thread/INFO]: [Not Secure] <theHULK> ane aa dedku kem andar liye tu
-[13:12:54] [Server thread/INFO]: [Not Secure] <theHULK> aa ne furnance ma nakh frog fry baniye
-[13:13:15] [Server thread/INFO]: [Not Secure] <Drakii27> tane furnace ma nakhu fry karu
-[13:13:31] [Server thread/INFO]: [Not Secure] <theHULK> chup noob kuku rova mande che
-[13:13:48] [Server thread/INFO]: [Not Secure] <Drakii27> mara gold apppooo
-[13:14:04] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-15.951738142472959,0.0
-[13:14:09] [Server thread/INFO]: bankaionma727 fell out of the world
-[13:14:23] [Server thread/INFO]: bankaionma727 fell out of the world
-[13:14:23] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-21.624759255281816,0.0
-[13:14:40] [Server thread/INFO]: theHULK fell out of the world
-[13:14:42] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-15.205457744538876,0.0
-[13:14:45] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-13.5475059413465,0.0
-[13:14:49] [Server thread/INFO]: bankaionma727 fell out of the world
-[13:15:10] [Server thread/INFO]: [Not Secure] <Drakii27> mara eight gold apppoooo pacha
-[13:15:10] [Server thread/INFO]: theHULK fell out of the world
-[13:15:42] [Server thread/INFO]: bankaionma727 fell out of the world
-[13:16:02] [Server thread/INFO]: [Not Secure] <Drakii27> mara eight gold apoo nagar villager na mar daes
-[13:16:04] [Server thread/INFO]: theHULK fell out of the world
-[13:16:35] [Server thread/INFO]: [Not Secure] <bankaionma727> malyu
-[13:16:56] [Server thread/INFO]: [Not Secure] <theHULK> mari jode che
-[13:17:14] [Server thread/INFO]: [Not Secure] <Drakii27> appl toh nagar mar nakhis
-[13:17:56] [Server thread/INFO]: bankaionma727 was shot by Skeleton
-[13:18:22] [Server thread/INFO]: bankaionma727 was shot by Skeleton
-[13:18:46] [Server thread/INFO]: [Not Secure] <Drakii27> jara eight gold apooo
-[13:19:01] [Server thread/INFO]: [Not Secure] <Drakii27> villages na mar daes
-[13:20:18] [Server thread/INFO]: [Not Secure] <bankaionma727> oen
-[13:20:21] [Server thread/INFO]: [Not Secure] <bankaionma727> open
-[13:20:43] [Server thread/INFO]: [Not Secure] <Drakii27> give my two gold inget
-[13:20:59] [Server thread/INFO]: [Not Secure] <theHULK> ketli ketli rotdu che
-[13:21:03] [Server thread/INFO]: [Not Secure] <theHULK> kai nai lidhu
-[13:21:12] [Server thread/INFO]: [Not Secure] <Drakii27> Maru maru
-[13:22:14] [Server thread/INFO]: [Not Secure] <Drakii27> mara ba inget app
-[13:22:47] [Server thread/INFO]: [Not Secure] <Drakii27> mara inget app
-[13:23:00] [Server thread/INFO]: theHULK fell out of the world
-[13:23:05] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-18.98098395967716,0.0
-[13:23:06] [Server thread/INFO]: [Not Secure] <bankaionma727> shu che3
-[13:23:09] [Server thread/INFO]: bankaionma727 fell out of the world
-[13:23:37] [Server thread/INFO]: theHULK fell out of the world
-[13:23:39] [Server thread/INFO]: [Not Secure] <bankaionma727> shu che3
-[13:23:41] [Server thread/INFO]: Drakii27 was slain by theHULK
-[13:23:44] [Server thread/INFO]: bankaionma727 fell out of the world
-[13:23:45] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-22.480808584786985,0.0
-[13:23:56] [Server thread/INFO]: Drakii27 was slain by theHULK
-[13:24:07] [Server thread/INFO]: [Not Secure] <Drakii27> give my inget
-[13:24:29] [Server thread/INFO]: Drakii27 was slain by Zombie
-[13:24:29] [Server thread/INFO]: theHULK was slain by Zombie
-[13:24:44] [Server thread/INFO]: bankaionma727 was slain by Zombie
-[13:24:45] [Server thread/INFO]: Drakii27 was slain by Zombie
-[13:24:50] [Server thread/INFO]: theHULK was slain by Zombie
-[13:24:58] [Server thread/INFO]: Drakii27 fell out of the world
-[13:25:04] [Server thread/INFO]: bankaionma727 was slain by Zombie
-[13:25:07] [Server thread/INFO]: theHULK was slain by Zombie
-[13:25:11] [Server thread/WARN]: Drakii27 moved too quickly! -0.038122709980002,-11.31484983401701,0.0
-[13:25:13] [Server thread/WARN]: Drakii27 moved too quickly! 0.8263276287108023,-10.529193645291327,0.4036085535852756
-[13:25:22] [Server thread/INFO]: theHULK was slain by Zombie
-[13:25:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=1, y=59, z=3}
-[13:25:37] [Server thread/INFO]: bankaionma727 was slain by Zombie
-[13:26:45] [Server thread/WARN]: Drakii27 moved too quickly! 0.0,-19.71116366515477,0.0
-[13:26:46] [Server thread/INFO]: Drakii27 fell out of the world
-[13:26:47] [Server thread/WARN]: Drakii27 moved too quickly! 0.0,-20.66745954399181,0.0
-[13:28:50] [Server thread/INFO]: [Not Secure] <Drakii27> appp
-[13:29:08] [Server thread/INFO]: theHULK lost connection: Disconnected
-[13:29:08] [Server thread/INFO]: theHULK left the game
-[13:29:23] [Server thread/INFO]: [Not Secure] <Drakii27> mane golden Apple banava fhah
-[13:29:31] [Server thread/INFO]: [Not Secure] [Server] closing server
-[13:29:38] [Server thread/INFO]: [Not Secure] <Drakii27> no
-[13:29:41] [Server thread/INFO]: [Not Secure] [Server] 3
-[13:29:43] [Server thread/INFO]: [Not Secure] [Server] 2
-[13:29:45] [Server thread/INFO]: [Not Secure] [Server] 1
-[13:29:48] [Server thread/INFO]: Stopping the server
-[13:29:48] [Server thread/INFO]: Stopping server
-[13:29:48] [Server thread/INFO]: Saving players
-[13:29:48] [Server thread/INFO]: Saving worlds
-[13:29:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§9OneBlock §eReborn]'/minecraft:overworld
-[13:29:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§9OneBlock §eReborn]'/minecraft:the_nether
-[13:29:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§9OneBlock §eReborn]'/minecraft:the_end
-[13:29:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:29:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:29:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:29:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:31:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:31:22] [ServerMain/INFO]: Loaded 1292 recipes
+[15:31:23] [ServerMain/INFO]: Loaded 1403 advancements
+[15:31:24] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[15:31:24] [Server thread/INFO]: Loading properties
+[15:31:24] [Server thread/INFO]: Default game type: SURVIVAL
+[15:31:24] [Server thread/INFO]: Generating keypair
+[15:31:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:31:24] [Server thread/INFO]: Using epoll channel type
+[15:31:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:31:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:31:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:31:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:31:24] [Server thread/INFO]: Preparing level "world"
+[15:31:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:31:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:31:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:31:25] [Server thread/INFO]: Time elapsed: 628 ms
+[15:31:25] [Server thread/INFO]: Done (0.911s)! For help, type "help"
+[15:31:44] [Server thread/INFO]: bankaionma727[/172.17.0.1:60674] logged in with entity id 69 at (-1.4002025024557327, 60.0, 0.6243925788170657)
+[15:31:44] [Server thread/INFO]: bankaionma727 joined the game
+[15:32:48] [Server thread/INFO]: theHULK[/172.17.0.1:43348] logged in with entity id 99 at (0.9571038102953308, 61.0, 0.2500826743253199)
+[15:32:48] [Server thread/INFO]: theHULK joined the game
+[15:34:28] [Server thread/WARN]: bankaionma727 moved too quickly! -0.07438286264581029,-10.87957813936518,-0.07608861215775287
+[15:34:28] [Server thread/INFO]: bankaionma727 was doomed to fall by theHULK
+[15:35:42] [Server thread/INFO]: theHULK lost connection: Disconnected
+[15:35:42] [Server thread/INFO]: theHULK left the game
+[15:36:20] [Server thread/INFO]: theHULK[/172.17.0.1:55740] logged in with entity id 260 at (1.4277128720988672, 60.0, 0.6492703878609325)
+[15:36:20] [Server thread/INFO]: theHULK joined the game
+[15:36:54] [Server thread/INFO]: [Not Secure] <bankaionma727> my name is john cena
+[15:37:04] [Server thread/INFO]: theHULK was slain by Breeze
+[15:37:04] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-10.819409542881672,0.0
+[15:37:09] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-11.233119618979796,0.0
+[15:37:12] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-12.708162068455419,0.0
+[15:37:16] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-11.798174230684282,0.0
+[15:37:18] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-11.141611616128849,0.0
+[15:37:20] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-10.856489120741116,0.0
+[15:37:21] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-11.207870780463566,0.0
+[15:37:22] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-11.658559565233816,0.0
+[15:37:24] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-11.2134039128713,0.0
+[15:37:26] [Server thread/INFO]: bankaionma727 fell out of the world
+[15:37:26] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-23.408127075576658,0.0
+[15:37:36] [Server thread/INFO]: theHULK lost connection: Timed out
+[15:37:36] [Server thread/INFO]: theHULK left the game
+[15:37:36] [Server thread/WARN]: handleDisconnection() called twice
+[15:38:47] [Server thread/WARN]: bankaionma727 moved too quickly! -1.611091161139826,-11.183315841704854,-0.6859642332622062
+[15:38:50] [Server thread/WARN]: bankaionma727 moved too quickly! 0.4566922710197243,-13.746956090073013,-0.0668257951633544
+[15:38:54] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-15.035772906733655,0.0
+[15:38:56] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-12.222727470279239,0.0
+[15:38:59] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-12.153971523372604,0.0
+[15:39:01] [Server thread/INFO]: bankaionma727 fell out of the world
+[15:39:01] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-23.410141198489157,0.0
+[15:39:46] [Server thread/INFO]: theHULK[/172.17.0.1:59926] logged in with entity id 444 at (-0.9121034101836558, 60.0, 2.2464563993481637)
+[15:39:46] [Server thread/INFO]: theHULK joined the game
+[15:40:21] [Server thread/WARN]: theHULK moved too quickly! -1.4293362943744699,-10.825797650248184,-2.0687015640299125
+[15:40:26] [Server thread/WARN]: bankaionma727 moved too quickly! 1.346879487006821,-10.612022956862141,0.45539816936334
+[15:40:32] [Server thread/WARN]: theHULK moved too quickly! 0.0,-11.064980402202277,0.0
+[15:40:35] [Server thread/WARN]: theHULK moved too quickly! 0.0,-16.154627845386415,0.0
+[15:40:37] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-12.222727470279253,0.0
+[15:40:39] [Server thread/WARN]: theHULK moved too quickly! 0.0,-23.410364989694983,0.0
+[15:40:39] [Server thread/INFO]: theHULK fell out of the world
+[15:40:39] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-11.19886200217773,0.0
+[15:40:40] [Server thread/WARN]: theHULK moved too quickly! 0.0,-23.416813745364408,0.0
+[15:40:42] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-11.658559565233835,0.0
+[15:40:44] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-11.537436446437333,0.0
+[15:40:47] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-14.133969169922409,0.0
+[15:40:49] [Server thread/INFO]: bankaionma727 fell out of the world
+[15:40:50] [Server thread/WARN]: bankaionma727 moved too quickly! 0.0,-23.410364989694983,0.0
+[15:44:47] [Server thread/INFO]: theHULK was slain by Slime
+[15:46:34] [Server thread/INFO]: theHULK lost connection: Disconnected
+[15:46:34] [Server thread/INFO]: theHULK left the game
+[15:46:45] [Server thread/INFO]: Drakii27[/172.17.0.1:59530] logged in with entity id 999 at (7.07069278723253, 61.5, -4.80156934219491)
+[15:46:45] [Server thread/INFO]: Drakii27 joined the game
+[15:46:46] [Server thread/INFO]: bankaionma727 lost connection: Timed out
+[15:46:46] [Server thread/INFO]: bankaionma727 left the game
+[15:46:59] [Server thread/INFO]: theHULK[/172.17.0.1:46250] logged in with entity id 1018 at (3.1050769758303676, 60.0, 0.48069138341466056)
+[15:46:59] [Server thread/INFO]: theHULK joined the game
+[15:47:06] [Server thread/INFO]: bankaionma727[/172.17.0.1:50904] logged in with entity id 1021 at (-2.81387042813122, 60.0, 0.9362086276517921)
+[15:47:06] [Server thread/INFO]: bankaionma727 joined the game
+[15:48:16] [Server thread/INFO]: bankaionma727 was doomed to fall by Phantom
+[15:48:19] [Server thread/INFO]: Drakii27 was shot by theHULK
+[15:49:02] [Server thread/WARN]: theHULK moved too quickly! 0.0,-16.726416485998556,0.0
+[15:49:06] [Server thread/INFO]: theHULK fell out of the world
+[15:49:31] [Server thread/INFO]: [Not Secure] <bankaionma727> my name is john cena
+[15:49:44] [Server thread/INFO]: Drakii27 was slain by bankaionma727
+[15:50:11] [Server thread/INFO]: Drakii27 has made the advancement [Smells Interesting]
+[15:50:36] [Server thread/INFO]: [Not Secure] <bankaionma727> my name is john cena
+[15:50:45] [Server thread/INFO]: [Not Secure] <Drakii27> hihiii
+[15:50:58] [Server thread/INFO]: [Not Secure] <bankaionma727> shu karyu
+[15:51:16] [Server thread/INFO]: [Not Secure] <theHULK> aa saman void ma java de to lag thay che
+[15:51:16] [Server thread/INFO]: [Not Secure] <bankaionma727> shu lidhu
+[15:51:24] [Server thread/INFO]: [Not Secure] <bankaionma727> shu lidhu
+[15:51:37] [Server thread/INFO]: [Not Secure] <bankaionma727> shu lidhu
+[15:53:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=60, z=0} jd{x=1, y=59, z=-1}
+[15:53:59] [Server thread/INFO]: [Not Secure] <bankaionma727> diamond
+[15:54:15] [Server thread/INFO]: Drakii27 was slain by theHULK
+[15:54:18] [Server thread/WARN]: bankaionma727 moved too quickly! 0.12359575941833922,-16.995443045553536,0.11617456831802557
+[15:54:23] [Server thread/INFO]: bankaionma727 fell out of the world
+[15:54:30] [Server thread/INFO]: theHULK was slain by Drakii27
+[15:55:00] [Server thread/INFO]: [Not Secure] <Drakii27> uaaahhh give me
+[15:55:02] [Server thread/INFO]: bankaionma727 was doomed to fall by Phantom
+[15:55:33] [Server thread/INFO]: [Not Secure] <Drakii27> appp
+[15:55:38] [Server thread/INFO]: [Not Secure] <Drakii27> uaaahh
+[15:55:46] [Server thread/INFO]: theHULK fell out of the world
+[15:55:47] [Server thread/INFO]: [Not Secure] <theHULK> su joie
+[15:56:13] [Server thread/INFO]: theHULK fell out of the world
+[15:56:38] [Server thread/INFO]: theHULK fell out of the world
+[15:56:39] [Server thread/WARN]: theHULK moved too quickly! 0.0,-22.161454241897616,0.0
+[15:57:07] [Server thread/INFO]: theHULK lost connection: Disconnected
+[15:57:07] [Server thread/INFO]: theHULK left the game
+[15:57:22] [Server thread/INFO]: bankaionma727 lost connection: Timed out
+[15:57:22] [Server thread/INFO]: bankaionma727 left the game
+[15:57:30] [Server thread/INFO]: Drakii27 lost connection: Timed out
+[15:57:30] [Server thread/INFO]: Drakii27 left the game
+[15:57:41] [Server thread/INFO]: theHULK[/172.17.0.1:53706] logged in with entity id 1593 at (3.7106404990991493, 60.0, -1.300000011920929)
+[15:57:41] [Server thread/INFO]: theHULK joined the game
+[15:58:26] [Server thread/INFO]: theHULK lost connection: Timed out
+[15:58:26] [Server thread/INFO]: theHULK left the game
+[15:58:30] [Server thread/INFO]: Drakii27[/172.17.0.1:47794] logged in with entity id 1666 at (0.9511539907257417, 60.599999999999994, 0.6221178990884226)
+[15:58:30] [Server thread/INFO]: Drakii27 joined the game
+[15:58:56] [Server thread/INFO]: theHULK[/172.17.0.1:50802] logged in with entity id 1692 at (2.372704582265217, 60.0, 0.5293067758947149)
+[15:58:56] [Server thread/INFO]: theHULK joined the game
+[15:59:54] [Server thread/INFO]: bankaionma727[/172.17.0.1:41714] logged in with entity id 1777 at (-2.2145803941703353, 82.0, -0.5682582029716945)
+[15:59:54] [Server thread/INFO]: bankaionma727 joined the game
+[16:00:01] [Server thread/INFO]: [Not Secure] <Drakii27> appl marawa chest ma
+[16:00:20] [Server thread/INFO]: theHULK fell out of the world
+[16:00:55] [Server thread/WARN]: theHULK moved too quickly! 0.0,-21.37652984594149,0.0
+[16:00:55] [Server thread/INFO]: theHULK fell out of the world
+[16:01:41] [Server thread/INFO]: bankaionma727 was doomed to fall by Phantom
+[16:02:00] [Server thread/WARN]: theHULK moved too quickly! 0.0,-17.969150755913297,0.0
+[16:02:13] [Server thread/INFO]: [Not Secure] <theHULK> net nai atu ne tu mare che jiye
+[16:02:13] [Server thread/INFO]: Drakii27 was slain by bankaionma727
+[16:02:21] [Server thread/INFO]: theHULK lost connection: Disconnected
+[16:02:21] [Server thread/INFO]: theHULK left the game
+[16:02:29] [Server thread/INFO]: theHULK[/172.17.0.1:49928] logged in with entity id 1931 at (3.9864094817330256, -263.8407718129937, -2.19614789686347)
+[16:02:29] [Server thread/INFO]: theHULK joined the game
+[16:02:30] [Server thread/INFO]: theHULK fell out of the world
+[16:03:06] [Server thread/INFO]: bankaionma727 was slain by Slime
+[16:03:46] [Server thread/INFO]: Drakii27 was slain by theHULK
+[16:05:02] [Server thread/WARN]: Drakii27 moved too quickly! 0.0,-19.473176972963756,0.0
+[16:05:05] [Server thread/INFO]: Drakii27 fell out of the world
+[16:05:36] [Server thread/INFO]: theHULK was slain by Drakii27
+[16:05:46] [Server thread/INFO]: [Not Secure] <theHULK> have je todyu ne ee repair kr
+[16:05:57] [Server thread/INFO]: Drakii27 was slain by theHULK
+[16:06:19] [Server thread/INFO]: [Not Secure] <Drakii27> pala mane math chest no saman app je ta lidho
+[16:07:08] [Server thread/INFO]: [Not Secure] <theHULK> aaj malyu tu
+[16:07:17] [Server thread/INFO]: [Not Secure] <Drakii27> a nai pala char aya na aa
+[16:07:34] [Server thread/INFO]: [Not Secure] <theHULK> su?? clear bol
+[16:07:48] [Server thread/INFO]: [Not Secure] <Drakii27> chestma diamond hata
+[16:08:01] [Server thread/INFO]: [Not Secure] <theHULK> to mane malya ne
+[16:08:07] [Server thread/INFO]: [Not Secure] <theHULK> to mara thaya
+[16:08:15] [Server thread/INFO]: [Not Secure] <theHULK> te lidha hot to tara that ne
+[16:08:30] [Server thread/INFO]: [Not Secure] <Drakii27> a tya hi pan hati ma javu lava gai avu ta lailidhu bhadha
+[16:08:56] [Server thread/INFO]: [Not Secure] <Drakii27> msg check kar
+[16:09:04] [Server thread/INFO]: bankaionma727 fell out of the world
+[16:09:14] [Server thread/INFO]: [Not Secure] <theHULK> su lakhyu che kai kbr nai padti
+[16:09:28] [Server thread/INFO]: [Not Secure] <theHULK> nalayak
+[16:09:30] [Server thread/INFO]: theHULK fell out of the world
+[16:10:52] [Server thread/WARN]: bankaionma727 moved too quickly! -0.1278503336599055,-10.688336401086616,0.010812773755973601
+[16:11:15] [Server thread/INFO]: bankaionma727 fell from a high place
+[16:11:56] [Server thread/INFO]: [Not Secure] <Drakii27> app bhi pls a Maru pan chsh
+[16:12:03] [Server thread/INFO]: theHULK fell out of the world
+[16:12:20] [Server thread/INFO]: [Not Secure] <theHULK> 2 malya ta 1 k aapis bol chalse???
+[16:12:35] [Server thread/INFO]: [Not Secure] <Drakii27> ba nata tran hata
+[16:12:36] [Server thread/INFO]: Drakii27 was slain by bankaionma727
+[16:12:46] [Server thread/INFO]: [Not Secure] <theHULK> 2 j hata
+[16:12:46] [Server thread/INFO]: [Not Secure] <Drakii27> man khabrcah
+[16:12:57] [Server thread/INFO]: [Not Secure] <bankaionma727> my name is johncena'
+[16:13:04] [Server thread/INFO]: [Not Secure] <Drakii27> h lava gaa apal taaiidh
+[16:13:12] [Server thread/INFO]: [Not Secure] <bankaionma727> nikal deta hu sabka paseena
+[16:13:22] [Server thread/INFO]: [Not Secure] <bankaionma727> my name is johncena'
+[16:13:22] [Server thread/INFO]: [Not Secure] <bankaionma727> nikal deta hu sabka paseena
+[16:13:24] [Server thread/INFO]: [Not Secure] <theHULK> su lakhe che kai kbr nai padti tu je lakhe e ek var vach
+[16:14:17] [Server thread/INFO]: [Not Secure] <Drakii27> a chest pase hu p hati. jyr hu diamond ta button d ba vyua pl ta llai lidhu
+[16:15:41] [Server thread/INFO]: [Not Secure] <theHULK> lol to have mara
+[16:15:49] [Server thread/INFO]: [Not Secure] <theHULK> me offer api ti 1k aapu em
+[16:16:11] [Server thread/INFO]: [Not Secure] <Drakii27> baa
+[16:16:13] [Server thread/INFO]: [Not Secure] <theHULK> rova mandyu uahhhhhh
+[16:16:19] [Server thread/INFO]: [Not Secure] <Drakii27> baa
+[16:16:32] [Server thread/INFO]: [Not Secure] <Drakii27> uaahhhh
+[16:16:34] [Server thread/INFO]: [Not Secure] <theHULK> server band kru lag thay che
+[16:16:50] [Server thread/INFO]: [Not Secure] <Drakii27> no pal appp
+[16:16:57] [Server thread/INFO]: [Not Secure] <bankaionma727> karde band
+[16:17:03] [Server thread/INFO]: [Not Secure] <theHULK> nai hu daru nai rakhto
+[16:17:15] [Server thread/INFO]: [Not Secure] <Drakii27> a0ne na diamond
+[16:17:20] [Server thread/INFO]: [Not Secure] <Drakii27> mara
+[16:17:23] [Server thread/INFO]: theHULK lost connection: Disconnected
+[16:17:23] [Server thread/INFO]: theHULK left the game
+[16:17:31] [Server thread/INFO]: [Not Secure] <Drakii27> uaaahhhhhuahh
+[16:17:35] [Server thread/INFO]: [Not Secure] <bankaionma727> lol
+[16:17:46] [Server thread/INFO]: [Not Secure] [Server] diamond e su hoy????
+[16:17:57] [Server thread/INFO]: [Not Secure] [Server] mane to nai malya
+[16:17:58] [Server thread/INFO]: [Not Secure] <bankaionma727> ole ole
+[16:17:59] [Server thread/INFO]: [Not Secure] <Drakii27> Maru lai gayo
+[16:18:11] [Server thread/INFO]: [Not Secure] [Server] have maru hu enu ghar banais
+[16:18:11] [Server thread/INFO]: [Not Secure] <Drakii27> maro lai gayo hulk
+[16:18:21] [Server thread/INFO]: [Not Secure] <bankaionma727> hu pan
+[16:18:21] [Server thread/INFO]: [Not Secure] <Drakii27> chinina uahhh
+[16:18:29] [Server thread/INFO]: [Not Secure] <bankaionma727> ole ole
+[16:18:35] [Server thread/INFO]: [Not Secure] <bankaionma727> draki
+[16:18:38] [Server thread/INFO]: [Not Secure] [Server] chinese ma rove che???
+[16:18:42] [Server thread/INFO]: [Not Secure] <bankaionma727> diamond joiye diamod
+[16:19:01] [Server thread/INFO]: [Not Secure] <Drakii27> a mara minima lai gayo hulk
+[16:19:11] [Server thread/INFO]: [Not Secure] [Server] kale ramisu hal net nathi
+[16:19:28] [Server thread/INFO]: [Not Secure] <Drakii27> Aryan pase mara chahh
+[16:19:28] [Server thread/INFO]: [Not Secure] [Server] lol heril chidave che
+[16:19:45] [Server thread/INFO]: Drakii27 burned to death
+[16:20:01] [Server thread/INFO]: Stopping the server
+[16:20:01] [Server thread/INFO]: Stopping server
+[16:20:01] [Server thread/INFO]: Saving players
+[16:20:01] [Server thread/INFO]: Saving worlds
+[16:20:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§9OneBlock §eReborn]'/minecraft:overworld
+[16:20:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§9OneBlock §eReborn]'/minecraft:the_nether
+[16:20:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[§9OneBlock §eReborn]'/minecraft:the_end
+[16:20:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:20:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:20:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:20:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
